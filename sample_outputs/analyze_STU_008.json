@@ -1,0 +1,115 @@
+{
+  "student_id": "STU_008",
+  "name": "Deepa Krishnan",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 8,
+  "overall_score_pct": 39.1,
+  "attempt_rate_pct": 92.5,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 524,
+  "trend": "stable",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 37.8,
+      "attempts": 4
+    },
+    "Chemistry": {
+      "average_score_pct": 41.0,
+      "attempts": 2
+    },
+    "Mathematics": {
+      "average_score_pct": 40.0,
+      "attempts": 2
+    }
+  },
+  "chapter_breakdown": {
+    "Rotational Mechanics": {
+      "average_score_pct": 39.5,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 146.5
+    },
+    "Heat Transfer": {
+      "average_score_pct": 68.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 188.0
+    },
+    "Laws of Motion": {
+      "average_score_pct": 10.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 114.0
+    },
+    "Thermodynamics": {
+      "average_score_pct": 36.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 139.5
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 72.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 182.0
+    },
+    "Physical Chemistry": {
+      "average_score_pct": 41.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 136.5
+    },
+    "Chemical Bonding": {
+      "average_score_pct": 10.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 91.0
+    },
+    "Coordinate Geometry": {
+      "average_score_pct": 40.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 144.5
+    },
+    "Algebra": {
+      "average_score_pct": 40.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 144.5
+    },
+    "Electrostatics": {
+      "average_score_pct": 36.5,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 135.0
+    }
+  },
+  "weakest_chapters": [
+    "Laws of Motion",
+    "Chemical Bonding",
+    "Thermodynamics"
+  ],
+  "strongest_chapters": [
+    "Heat Transfer",
+    "Organic Chemistry"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_MAT_0030",
+      "time_seconds": 319,
+      "attempt_id": "ATT_008_05"
+    },
+    {
+      "question_id": "Q_CHE_0029",
+      "time_seconds": 304,
+      "attempt_id": "ATT_008_03"
+    },
+    {
+      "question_id": "Q_PHY_0036",
+      "time_seconds": 229,
+      "attempt_id": "ATT_008_01"
+    },
+    {
+      "question_id": "Q_PHY_0035",
+      "time_seconds": 218,
+      "attempt_id": "ATT_008_07"
+    },
+    {
+      "question_id": "Q_MAT_0036",
+      "time_seconds": 192,
+      "attempt_id": "ATT_008_06"
+    }
+  ]
+}

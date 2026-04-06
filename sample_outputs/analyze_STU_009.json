@@ -1,0 +1,110 @@
+{
+  "student_id": "STU_009",
+  "name": "Amit Verma",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 6,
+  "overall_score_pct": 41.0,
+  "attempt_rate_pct": 97.3,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 334,
+  "trend": "stable",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 41.7,
+      "attempts": 3
+    },
+    "Mathematics": {
+      "average_score_pct": 43.0,
+      "attempts": 2
+    },
+    "Chemistry": {
+      "average_score_pct": 35.0,
+      "attempts": 1
+    }
+  },
+  "chapter_breakdown": {
+    "Optics": {
+      "average_score_pct": 40.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 129.0
+    },
+    "Kinematics": {
+      "average_score_pct": 40.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 126.5
+    },
+    "Probability": {
+      "average_score_pct": 41.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 128.0
+    },
+    "Calculus": {
+      "average_score_pct": 43.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 127.0
+    },
+    "Heat Transfer": {
+      "average_score_pct": 42.5,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 119.5
+    },
+    "Rotational Mechanics": {
+      "average_score_pct": 45.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 115.0
+    },
+    "Physical Chemistry": {
+      "average_score_pct": 35.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 121.0
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 35.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 121.0
+    },
+    "Algebra": {
+      "average_score_pct": 45.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 126.0
+    }
+  },
+  "weakest_chapters": [
+    "Physical Chemistry",
+    "Organic Chemistry",
+    "Optics"
+  ],
+  "strongest_chapters": [
+    "Rotational Mechanics",
+    "Algebra"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_CHE_0080",
+      "time_seconds": 414,
+      "attempt_id": "ATT_009_04"
+    },
+    {
+      "question_id": "Q_MAT_0089",
+      "time_seconds": 404,
+      "attempt_id": "ATT_009_02"
+    },
+    {
+      "question_id": "Q_PHY_0096",
+      "time_seconds": 381,
+      "attempt_id": "ATT_009_03"
+    },
+    {
+      "question_id": "Q_PHY_0071",
+      "time_seconds": 371,
+      "attempt_id": "ATT_009_01"
+    },
+    {
+      "question_id": "Q_MAT_0083",
+      "time_seconds": 342,
+      "attempt_id": "ATT_009_05"
+    }
+  ]
+}

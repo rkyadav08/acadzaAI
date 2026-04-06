@@ -1,0 +1,115 @@
+{
+  "student_id": "STU_010",
+  "name": "Neha Joshi",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 7,
+  "overall_score_pct": 78.0,
+  "attempt_rate_pct": 100.0,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 358,
+  "trend": "declining",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 75.6,
+      "attempts": 3
+    },
+    "Chemistry": {
+      "average_score_pct": 80.8,
+      "attempts": 2
+    },
+    "Mathematics": {
+      "average_score_pct": 78.8,
+      "attempts": 2
+    }
+  },
+  "chapter_breakdown": {
+    "Optics": {
+      "average_score_pct": 80.8,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 91.0
+    },
+    "Heat Transfer": {
+      "average_score_pct": 80.8,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 91.0
+    },
+    "Chemical Bonding": {
+      "average_score_pct": 80.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 88.0
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 80.8,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 88.5
+    },
+    "Probability": {
+      "average_score_pct": 76.7,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 79.0
+    },
+    "Coordinate Geometry": {
+      "average_score_pct": 78.8,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 89.0
+    },
+    "Rotational Mechanics": {
+      "average_score_pct": 65.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 95.0
+    },
+    "Electrostatics": {
+      "average_score_pct": 65.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 95.0
+    },
+    "Physical Chemistry": {
+      "average_score_pct": 80.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 89.0
+    },
+    "Calculus": {
+      "average_score_pct": 80.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 99.0
+    }
+  },
+  "weakest_chapters": [
+    "Rotational Mechanics",
+    "Electrostatics",
+    "Probability"
+  ],
+  "strongest_chapters": [
+    "Physical Chemistry",
+    "Calculus"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_MAT_0030",
+      "time_seconds": 180,
+      "attempt_id": "ATT_010_07"
+    },
+    {
+      "question_id": "Q_PHY_0053",
+      "time_seconds": 167,
+      "attempt_id": "ATT_010_01"
+    },
+    {
+      "question_id": "Q_PHY_0030",
+      "time_seconds": 167,
+      "attempt_id": "ATT_010_06"
+    },
+    {
+      "question_id": "Q_MAT_0049",
+      "time_seconds": 154,
+      "attempt_id": "ATT_010_03"
+    },
+    {
+      "question_id": "Q_CHE_0040",
+      "time_seconds": 141,
+      "attempt_id": "ATT_010_05"
+    }
+  ]
+}

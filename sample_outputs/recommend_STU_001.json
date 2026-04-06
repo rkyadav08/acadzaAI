@@ -1,0 +1,132 @@
+{
+  "student_id": "STU_001",
+  "name": "Arjun Sharma",
+  "total_steps": 7,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Thermodynamics",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0080",
+        "Q_PHY_0022",
+        "Q_PHY_0100",
+        "Q_PHY_0021",
+        "Q_PHY_0003"
+      ],
+      "reasoning": "Thermodynamics is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Thermodynamics. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Kinematics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Kinematics needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Kinematics. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Thermodynamics",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0080",
+        "Q_PHY_0022",
+        "Q_PHY_0100",
+        "Q_PHY_0021",
+        "Q_PHY_0003"
+      ],
+      "reasoning": "Targeted practice on Thermodynamics at medium difficulty based on current performance (33.3% overall).",
+      "message_to_student": "Now let's practice Thermodynamics with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "clickingPower",
+      "target_chapter": "Electrostatics",
+      "params": {
+        "total_questions": {
+          "type": "integer",
+          "default": 10
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Average time per question is 188s \u2014 above the 150s threshold. Speed drill on a stronger topic to build confidence and pace.",
+      "message_to_student": "Your accuracy is developing, but speed is crucial for JEE. Let's do a quick-fire round on a topic you're comfortable with!"
+    },
+    {
+      "step": 5,
+      "dost_type": "pickingPower",
+      "target_chapter": "Kinematics",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0053",
+        "Q_PHY_0024",
+        "Q_PHY_0008"
+      ],
+      "reasoning": "Attempt rate is 76.9% \u2014 student is skipping too many questions. Option elimination practice will help attempt more confidently.",
+      "message_to_student": "You're leaving some questions unanswered. Let's practice eliminating wrong options \u2014 even partial knowledge can earn marks!"
+    },
+    {
+      "step": 6,
+      "dost_type": "revision",
+      "target_chapter": "Thermodynamics, Kinematics",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Thermodynamics, Kinematics) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Thermodynamics and Kinematics. Consistency beats cramming!"
+    },
+    {
+      "step": 7,
+      "dost_type": "practiceTest",
+      "target_chapter": "Thermodynamics",
+      "params": {
+        "difficulty": "medium",
+        "duration_minutes": 45,
+        "paperPattern": {
+          "type": "string",
+          "options": [
+            "Mains",
+            "Advanced"
+          ],
+          "default": "Mains"
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0082",
+        "Q_CHE_0055",
+        "Q_MAT_0039",
+        "Q_CHE_0031",
+        "Q_PHY_0015",
+        "Q_PHY_0093",
+        "Q_CHE_0002",
+        "Q_PHY_0038",
+        "Q_MAT_0024",
+        "Q_CHE_0010"
+      ],
+      "reasoning": "Completion rate (66.7%) and trend (stable) suggest test anxiety. A shorter, easier test builds confidence.",
+      "message_to_student": "Let's try a shorter mock test. The goal isn't perfection \u2014 it's completing the paper and building your exam stamina!"
+    }
+  ]
+}

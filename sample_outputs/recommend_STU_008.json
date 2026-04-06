@@ -1,0 +1,72 @@
+{
+  "student_id": "STU_008",
+  "name": "Deepa Krishnan",
+  "total_steps": 4,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Laws of Motion",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0031",
+        "Q_PHY_0049",
+        "Q_PHY_0092",
+        "Q_PHY_0085",
+        "Q_PHY_0019"
+      ],
+      "reasoning": "Laws of Motion is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Laws of Motion. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Chemical Bonding",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Chemical Bonding needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Chemical Bonding. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Laws of Motion",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0031",
+        "Q_PHY_0049",
+        "Q_PHY_0092",
+        "Q_PHY_0085",
+        "Q_PHY_0019"
+      ],
+      "reasoning": "Targeted practice on Laws of Motion at medium difficulty based on current performance (39.1% overall).",
+      "message_to_student": "Now let's practice Laws of Motion with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Laws of Motion, Chemical Bonding",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Laws of Motion, Chemical Bonding) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Laws of Motion and Chemical Bonding. Consistency beats cramming!"
+    }
+  ]
+}

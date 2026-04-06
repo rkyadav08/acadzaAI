@@ -1,0 +1,105 @@
+{
+  "student_id": "STU_005",
+  "name": "Karan Mehta",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 6,
+  "overall_score_pct": 30.0,
+  "attempt_rate_pct": 78.0,
+  "completion_rate_pct": 66.7,
+  "aborted_tests": 2,
+  "total_time_minutes": 273,
+  "trend": "declining",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 34.3,
+      "attempts": 3
+    },
+    "Mathematics": {
+      "average_score_pct": 31.0,
+      "attempts": 2
+    },
+    "Chemistry": {
+      "average_score_pct": 15.0,
+      "attempts": 1
+    }
+  },
+  "chapter_breakdown": {
+    "Kinematics": {
+      "average_score_pct": 34.3,
+      "attempts": 3,
+      "avg_time_per_question_seconds": 118.3
+    },
+    "Heat Transfer": {
+      "average_score_pct": 63.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 122.0
+    },
+    "Algebra": {
+      "average_score_pct": 31.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 121.5
+    },
+    "Calculus": {
+      "average_score_pct": 58.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 129.0
+    },
+    "Rotational Mechanics": {
+      "average_score_pct": 20.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 116.5
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 15.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 102.0
+    },
+    "Chemical Bonding": {
+      "average_score_pct": 15.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 102.0
+    },
+    "Probability": {
+      "average_score_pct": 4.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 114.0
+    }
+  },
+  "weakest_chapters": [
+    "Probability",
+    "Organic Chemistry",
+    "Chemical Bonding"
+  ],
+  "strongest_chapters": [
+    "Calculus",
+    "Heat Transfer"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_MAT_0021",
+      "time_seconds": 275,
+      "attempt_id": "ATT_005_02"
+    },
+    {
+      "question_id": "Q_PHY_0042",
+      "time_seconds": 273,
+      "attempt_id": "ATT_005_01"
+    },
+    {
+      "question_id": "Q_CHE_0050",
+      "time_seconds": 252,
+      "attempt_id": "ATT_005_04"
+    },
+    {
+      "question_id": "Q_PHY_0021",
+      "time_seconds": 245,
+      "attempt_id": "ATT_005_03"
+    },
+    {
+      "question_id": "Q_MAT_0034",
+      "time_seconds": 220,
+      "attempt_id": "ATT_005_06"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Reddy",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 7,
+  "overall_score_pct": 49.1,
+  "attempt_rate_pct": 82.9,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 330,
+  "trend": "declining",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 80.2,
+      "attempts": 4
+    },
+    "Chemistry": {
+      "average_score_pct": 7.7,
+      "attempts": 3
+    }
+  },
+  "chapter_breakdown": {
+    "Kinematics": {
+      "average_score_pct": 81.3,
+      "attempts": 3,
+      "avg_time_per_question_seconds": 101.3
+    },
+    "Heat Transfer": {
+      "average_score_pct": 81.5,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 107.0
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 7.7,
+      "attempts": 3,
+      "avg_time_per_question_seconds": 88.0
+    },
+    "Physical Chemistry": {
+      "average_score_pct": 7.7,
+      "attempts": 3,
+      "avg_time_per_question_seconds": 88.0
+    },
+    "Electrostatics": {
+      "average_score_pct": 79.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 103.0
+    },
+    "Rotational Mechanics": {
+      "average_score_pct": 77.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 116.0
+    }
+  },
+  "weakest_chapters": [
+    "Organic Chemistry",
+    "Physical Chemistry",
+    "Rotational Mechanics"
+  ],
+  "strongest_chapters": [
+    "Kinematics",
+    "Heat Transfer"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_CHE_0026",
+      "time_seconds": 267,
+      "attempt_id": "ATT_006_04"
+    },
+    {
+      "question_id": "Q_CHE_0029",
+      "time_seconds": 258,
+      "attempt_id": "ATT_006_02"
+    },
+    {
+      "question_id": "Q_CHE_0033",
+      "time_seconds": 251,
+      "attempt_id": "ATT_006_06"
+    },
+    {
+      "question_id": "Q_PHY_0024",
+      "time_seconds": 224,
+      "attempt_id": "ATT_006_01"
+    },
+    {
+      "question_id": "Q_PHY_0037",
+      "time_seconds": 198,
+      "attempt_id": "ATT_006_07"
+    }
+  ]
+}

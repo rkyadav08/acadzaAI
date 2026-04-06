@@ -1,0 +1,121 @@
+{
+  "student_id": "STU_010",
+  "name": "Neha Joshi",
+  "total_steps": 6,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Rotational Mechanics",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0051",
+        "Q_PHY_0069"
+      ],
+      "reasoning": "Rotational Mechanics is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Rotational Mechanics. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Electrostatics",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Electrostatics needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Electrostatics. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Mechanics",
+      "params": {
+        "difficulty": "hard",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0051",
+        "Q_PHY_0069"
+      ],
+      "reasoning": "Targeted practice on Rotational Mechanics at hard difficulty based on current performance (78.0% overall).",
+      "message_to_student": "Now let's practice Rotational Mechanics with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Rotational Mechanics, Electrostatics",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Rotational Mechanics, Electrostatics) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Rotational Mechanics and Electrostatics. Consistency beats cramming!"
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceTest",
+      "target_chapter": "Rotational Mechanics",
+      "params": {
+        "difficulty": "medium",
+        "duration_minutes": 45,
+        "paperPattern": {
+          "type": "string",
+          "options": [
+            "Mains",
+            "Advanced"
+          ],
+          "default": "Mains"
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0082",
+        "Q_CHE_0055",
+        "Q_MAT_0039",
+        "Q_CHE_0031",
+        "Q_PHY_0015",
+        "Q_PHY_0093",
+        "Q_CHE_0002",
+        "Q_PHY_0038",
+        "Q_MAT_0024",
+        "Q_CHE_0010"
+      ],
+      "reasoning": "Completion rate (100.0%) and trend (declining) suggest test anxiety. A shorter, easier test builds confidence.",
+      "message_to_student": "Let's try a shorter mock test. The goal isn't perfection \u2014 it's completing the paper and building your exam stamina!"
+    },
+    {
+      "step": 6,
+      "dost_type": "speedRace",
+      "target_chapter": "Calculus",
+      "params": {
+        "rank": {
+          "type": "integer",
+          "default": 100
+        },
+        "opponent_type": {
+          "type": "string",
+          "default": "bot"
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Student has decent fundamentals (78.0%). A competitive race adds motivation and tests speed under pressure.",
+      "message_to_student": "Ready for a challenge? Race against the bot on a topic you know well. Let's see how fast you can go!"
+    }
+  ]
+}

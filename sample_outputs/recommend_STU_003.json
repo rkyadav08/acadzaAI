@@ -1,0 +1,105 @@
+{
+  "student_id": "STU_003",
+  "name": "Rohan Gupta",
+  "total_steps": 6,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Calculus",
+      "params": {},
+      "question_ids": [
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0008",
+        "Q_MAT_0022"
+      ],
+      "reasoning": "Calculus is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Calculus. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Probability",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Probability needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Probability. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Calculus",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0008",
+        "Q_MAT_0022"
+      ],
+      "reasoning": "Targeted practice on Calculus at medium difficulty based on current performance (40.3% overall).",
+      "message_to_student": "Now let's practice Calculus with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "Probability",
+      "params": {},
+      "question_ids": [
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0029",
+        "Q_MAT_0026"
+      ],
+      "reasoning": "Attempt rate is 65.6% \u2014 student is skipping too many questions. Option elimination practice will help attempt more confidently.",
+      "message_to_student": "You're leaving some questions unanswered. Let's practice eliminating wrong options \u2014 even partial knowledge can earn marks!"
+    },
+    {
+      "step": 5,
+      "dost_type": "revision",
+      "target_chapter": "Calculus, Probability",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Calculus, Probability) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Calculus and Probability. Consistency beats cramming!"
+    },
+    {
+      "step": 6,
+      "dost_type": "speedRace",
+      "target_chapter": "Chemical Bonding",
+      "params": {
+        "rank": {
+          "type": "integer",
+          "default": 100
+        },
+        "opponent_type": {
+          "type": "string",
+          "default": "bot"
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Student has decent fundamentals (40.3%). A competitive race adds motivation and tests speed under pressure.",
+      "message_to_student": "Ready for a challenge? Race against the bot on a topic you know well. Let's see how fast you can go!"
+    }
+  ]
+}

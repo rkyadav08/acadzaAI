@@ -1,0 +1,90 @@
+{
+  "student_id": "STU_009",
+  "name": "Amit Verma",
+  "total_steps": 5,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Physical Chemistry",
+      "params": {},
+      "question_ids": [
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0020",
+        "Q_CHE_0006",
+        "Q_CHE_0033"
+      ],
+      "reasoning": "Physical Chemistry is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Physical Chemistry. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Organic Chemistry",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Organic Chemistry needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Organic Chemistry. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Physical Chemistry",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0020",
+        "Q_CHE_0006",
+        "Q_CHE_0033"
+      ],
+      "reasoning": "Targeted practice on Physical Chemistry at medium difficulty based on current performance (41.0% overall).",
+      "message_to_student": "Now let's practice Physical Chemistry with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Physical Chemistry, Organic Chemistry",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Physical Chemistry, Organic Chemistry) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Physical Chemistry and Organic Chemistry. Consistency beats cramming!"
+    },
+    {
+      "step": 5,
+      "dost_type": "speedRace",
+      "target_chapter": "Algebra",
+      "params": {
+        "rank": {
+          "type": "integer",
+          "default": 100
+        },
+        "opponent_type": {
+          "type": "string",
+          "default": "bot"
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Student has decent fundamentals (41.0%). A competitive race adds motivation and tests speed under pressure.",
+      "message_to_student": "Ready for a challenge? Race against the bot on a topic you know well. Let's see how fast you can go!"
+    }
+  ]
+}

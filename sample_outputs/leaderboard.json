@@ -1,0 +1,114 @@
+{
+  "leaderboard": [
+    {
+      "rank": 1,
+      "student_id": "STU_010",
+      "name": "Neha Joshi",
+      "score": 67.08,
+      "overall_pct": 78.0,
+      "strength": "Physical Chemistry",
+      "weakness": "Rotational Mechanics",
+      "focus_area": "Rotational Mechanics",
+      "trend": "declining"
+    },
+    {
+      "rank": 2,
+      "student_id": "STU_004",
+      "name": "Meera Iyer",
+      "score": 56.71,
+      "overall_pct": 47.0,
+      "strength": "Coordinate Geometry",
+      "weakness": "Electrostatics",
+      "focus_area": "Electrostatics",
+      "trend": "improving"
+    },
+    {
+      "rank": 3,
+      "student_id": "STU_007",
+      "name": "Vikram Singh",
+      "score": 55.55,
+      "overall_pct": 54.4,
+      "strength": "Probability",
+      "weakness": "Electrostatics",
+      "focus_area": "Electrostatics",
+      "trend": "stable"
+    },
+    {
+      "rank": 4,
+      "student_id": "STU_009",
+      "name": "Amit Verma",
+      "score": 53.13,
+      "overall_pct": 41.0,
+      "strength": "Rotational Mechanics",
+      "weakness": "Physical Chemistry",
+      "focus_area": "Physical Chemistry",
+      "trend": "stable"
+    },
+    {
+      "rank": 5,
+      "student_id": "STU_006",
+      "name": "Ananya Reddy",
+      "score": 52.35,
+      "overall_pct": 49.1,
+      "strength": "Kinematics",
+      "weakness": "Organic Chemistry",
+      "focus_area": "Organic Chemistry",
+      "trend": "declining"
+    },
+    {
+      "rank": 6,
+      "student_id": "STU_008",
+      "name": "Deepa Krishnan",
+      "score": 51.12,
+      "overall_pct": 39.1,
+      "strength": "Heat Transfer",
+      "weakness": "Laws of Motion",
+      "focus_area": "Laws of Motion",
+      "trend": "stable"
+    },
+    {
+      "rank": 7,
+      "student_id": "STU_003",
+      "name": "Rohan Gupta",
+      "score": 48.04,
+      "overall_pct": 40.3,
+      "strength": "Organic Chemistry",
+      "weakness": "Calculus",
+      "focus_area": "Calculus",
+      "trend": "stable"
+    },
+    {
+      "rank": 8,
+      "student_id": "STU_002",
+      "name": "Priya Patel",
+      "score": 43.63,
+      "overall_pct": 17.3,
+      "strength": "Thermodynamics",
+      "weakness": "Algebra",
+      "focus_area": "Algebra",
+      "trend": "stable"
+    },
+    {
+      "rank": 9,
+      "student_id": "STU_001",
+      "name": "Arjun Sharma",
+      "score": 40.14,
+      "overall_pct": 33.3,
+      "strength": "Electrostatics",
+      "weakness": "Thermodynamics",
+      "focus_area": "Thermodynamics",
+      "trend": "stable"
+    },
+    {
+      "rank": 10,
+      "student_id": "STU_005",
+      "name": "Karan Mehta",
+      "score": 37.54,
+      "overall_pct": 30.0,
+      "strength": "Calculus",
+      "weakness": "Probability",
+      "focus_area": "Probability",
+      "trend": "declining"
+    }
+  ]
+}

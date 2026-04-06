@@ -1,0 +1,90 @@
+{
+  "student_id": "STU_004",
+  "name": "Meera Iyer",
+  "total_steps": 5,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Electrostatics",
+      "params": {},
+      "question_ids": [
+        "Q_PHY_0005",
+        "Q_PHY_0059",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072"
+      ],
+      "reasoning": "Electrostatics is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Electrostatics. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Algebra",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Algebra needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Algebra. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "params": {
+        "difficulty": "medium",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0005",
+        "Q_PHY_0059",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072"
+      ],
+      "reasoning": "Targeted practice on Electrostatics at medium difficulty based on current performance (47.0% overall).",
+      "message_to_student": "Now let's practice Electrostatics with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Electrostatics, Algebra",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Electrostatics, Algebra) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Electrostatics and Algebra. Consistency beats cramming!"
+    },
+    {
+      "step": 5,
+      "dost_type": "speedRace",
+      "target_chapter": "Optics",
+      "params": {
+        "rank": {
+          "type": "integer",
+          "default": 100
+        },
+        "opponent_type": {
+          "type": "string",
+          "default": "bot"
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Student has decent fundamentals (47.0%). A competitive race adds motivation and tests speed under pressure.",
+      "message_to_student": "Ready for a challenge? Race against the bot on a topic you know well. Let's see how fast you can go!"
+    }
+  ]
+}

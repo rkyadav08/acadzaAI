@@ -1,0 +1,72 @@
+{
+  "student_id": "STU_002",
+  "name": "Priya Patel",
+  "total_steps": 4,
+  "plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Algebra",
+      "params": {},
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003"
+      ],
+      "reasoning": "Algebra is the student's weakest chapter. Start with concept revision to build foundational understanding before practice.",
+      "message_to_student": "Let's start by reviewing the core concepts in Algebra. Understanding the theory will make problem-solving much easier!"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Coordinate Geometry",
+      "params": {},
+      "question_ids": [],
+      "reasoning": "Coordinate Geometry needs formula revision. Many errors in this chapter likely stem from formula confusion.",
+      "message_to_student": "Time to brush up on the key formulas for Coordinate Geometry. Having these at your fingertips will save you time and mistakes."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Algebra",
+      "params": {
+        "difficulty": "easy",
+        "type_split": {
+          "type": "object",
+          "default": {
+            "scq": 20,
+            "mcq": 10,
+            "integer": 5
+          }
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003"
+      ],
+      "reasoning": "Targeted practice on Algebra at easy difficulty based on current performance (17.3% overall).",
+      "message_to_student": "Now let's practice Algebra with some targeted problems. Take your time \u2014 no timer here!"
+    },
+    {
+      "step": 4,
+      "dost_type": "revision",
+      "target_chapter": "Algebra, Coordinate Geometry",
+      "params": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": {
+          "type": "integer",
+          "default": 60
+        }
+      },
+      "question_ids": [],
+      "reasoning": "Multiple weak chapters (Algebra, Coordinate Geometry) need systematic revision over multiple days.",
+      "message_to_student": "Let's set up a 3-day revision plan covering Algebra and Coordinate Geometry. Consistency beats cramming!"
+    }
+  ]
+}

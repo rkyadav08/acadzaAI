@@ -1,0 +1,115 @@
+{
+  "student_id": "STU_002",
+  "name": "Priya Patel",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 7,
+  "overall_score_pct": 17.3,
+  "attempt_rate_pct": 97.4,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 245,
+  "trend": "stable",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 19.4,
+      "attempts": 3
+    },
+    "Chemistry": {
+      "average_score_pct": 20.0,
+      "attempts": 2
+    },
+    "Mathematics": {
+      "average_score_pct": 11.2,
+      "attempts": 2
+    }
+  },
+  "chapter_breakdown": {
+    "Thermodynamics": {
+      "average_score_pct": 22.9,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 61.0
+    },
+    "Laws of Motion": {
+      "average_score_pct": 22.9,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 61.0
+    },
+    "Physical Chemistry": {
+      "average_score_pct": 20.0,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 67.5
+    },
+    "Chemical Bonding": {
+      "average_score_pct": 20.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 68.0
+    },
+    "Coordinate Geometry": {
+      "average_score_pct": 11.2,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 61.0
+    },
+    "Algebra": {
+      "average_score_pct": 10.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 52.0
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 20.0,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 67.0
+    },
+    "Heat Transfer": {
+      "average_score_pct": 12.5,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 63.0
+    },
+    "Rotational Mechanics": {
+      "average_score_pct": 12.5,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 63.0
+    },
+    "Calculus": {
+      "average_score_pct": 12.5,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 70.0
+    }
+  },
+  "weakest_chapters": [
+    "Algebra",
+    "Coordinate Geometry",
+    "Heat Transfer"
+  ],
+  "strongest_chapters": [
+    "Thermodynamics",
+    "Laws of Motion"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_CHE_0054",
+      "time_seconds": 139,
+      "attempt_id": "ATT_002_02"
+    },
+    {
+      "question_id": "Q_MAT_0036",
+      "time_seconds": 131,
+      "attempt_id": "ATT_002_03"
+    },
+    {
+      "question_id": "Q_PHY_0043",
+      "time_seconds": 127,
+      "attempt_id": "ATT_002_04"
+    },
+    {
+      "question_id": "Q_PHY_0035",
+      "time_seconds": 124,
+      "attempt_id": "ATT_002_01"
+    },
+    {
+      "question_id": "Q_CHE_0051",
+      "time_seconds": 117,
+      "attempt_id": "ATT_002_05"
+    }
+  ]
+}

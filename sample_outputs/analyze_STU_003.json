@@ -1,0 +1,115 @@
+{
+  "student_id": "STU_003",
+  "name": "Rohan Gupta",
+  "class": 12,
+  "stream": "JEE",
+  "total_attempts": 6,
+  "overall_score_pct": 40.3,
+  "attempt_rate_pct": 65.6,
+  "completion_rate_pct": 100.0,
+  "aborted_tests": 0,
+  "total_time_minutes": 273,
+  "trend": "stable",
+  "subject_breakdown": {
+    "Physics": {
+      "average_score_pct": 39.4,
+      "attempts": 3
+    },
+    "Mathematics": {
+      "average_score_pct": 37.0,
+      "attempts": 2
+    },
+    "Chemistry": {
+      "average_score_pct": 49.2,
+      "attempts": 1
+    }
+  },
+  "chapter_breakdown": {
+    "Rotational Mechanics": {
+      "average_score_pct": 40.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 95.0
+    },
+    "Kinematics": {
+      "average_score_pct": 37.5,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 107.5
+    },
+    "Coordinate Geometry": {
+      "average_score_pct": 43.3,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 104.0
+    },
+    "Algebra": {
+      "average_score_pct": 43.3,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 104.0
+    },
+    "Electrostatics": {
+      "average_score_pct": 38.8,
+      "attempts": 2,
+      "avg_time_per_question_seconds": 113.0
+    },
+    "Organic Chemistry": {
+      "average_score_pct": 49.2,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 108.0
+    },
+    "Chemical Bonding": {
+      "average_score_pct": 49.2,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 108.0
+    },
+    "Calculus": {
+      "average_score_pct": 30.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 99.0
+    },
+    "Probability": {
+      "average_score_pct": 30.8,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 99.0
+    },
+    "Optics": {
+      "average_score_pct": 43.3,
+      "attempts": 1,
+      "avg_time_per_question_seconds": 106.0
+    }
+  },
+  "weakest_chapters": [
+    "Calculus",
+    "Probability",
+    "Kinematics"
+  ],
+  "strongest_chapters": [
+    "Organic Chemistry",
+    "Chemical Bonding"
+  ],
+  "slowest_questions": [
+    {
+      "question_id": "Q_CHE_0015",
+      "time_seconds": 207,
+      "attempt_id": "ATT_003_04"
+    },
+    {
+      "question_id": "Q_PHY_0018",
+      "time_seconds": 199,
+      "attempt_id": "ATT_003_01"
+    },
+    {
+      "question_id": "Q_PHY_0003",
+      "time_seconds": 182,
+      "attempt_id": "ATT_003_06"
+    },
+    {
+      "question_id": "Q_PHY_0006",
+      "time_seconds": 166,
+      "attempt_id": "ATT_003_03"
+    },
+    {
+      "question_id": "Q_MAT_0019",
+      "time_seconds": 164,
+      "attempt_id": "ATT_003_05"
+    }
+  ]
+}
