@@ -1,0 +1,2147 @@
+[
+  {
+    "student_id": "STU_001",
+    "name": "Arjun Sharma",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_001_01",
+        "date": "2026-02-10",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Thermodynamics",
+          "Electrostatics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 60,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 23,
+        "skipped": 2,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": "39/100",
+        "avg_time_per_question_seconds": 192,
+        "slowest_question_id": "Q_PHY_0018",
+        "slowest_question_time_seconds": 455,
+        "fastest_question_id": "Q_PHY_0062",
+        "fastest_question_time_seconds": 48
+      },
+      {
+        "attempt_id": "ATT_001_02",
+        "date": "2026-02-18",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Optics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 22,
+        "skipped": 3,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 2
+        },
+        "marks": "+48 -8",
+        "avg_time_per_question_seconds": 190,
+        "slowest_question_id": "Q_PHY_0018",
+        "slowest_question_time_seconds": 408,
+        "fastest_question_id": "Q_PHY_0073",
+        "fastest_question_time_seconds": 49
+      },
+      {
+        "attempt_id": "ATT_001_03",
+        "date": "2026-02-25",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Thermodynamics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 36,
+        "completed": false,
+        "total_questions": 30,
+        "attempted": 14,
+        "skipped": 16,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 13,
+          "integer": 1
+        },
+        "marks": "22",
+        "avg_time_per_question_seconds": 187,
+        "slowest_question_id": "Q_PHY_0011",
+        "slowest_question_time_seconds": 399,
+        "fastest_question_id": "Q_PHY_0068",
+        "fastest_question_time_seconds": 41
+      },
+      {
+        "attempt_id": "ATT_001_04",
+        "date": "2026-03-04",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 57,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 29,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 25,
+          "integer": 4
+        },
+        "marks": "49/120 (40.8%)",
+        "avg_time_per_question_seconds": 196,
+        "slowest_question_id": "Q_CHE_0002",
+        "slowest_question_time_seconds": 438,
+        "fastest_question_id": "Q_CHE_0083",
+        "fastest_question_time_seconds": 52
+      },
+      {
+        "attempt_id": "ATT_001_05",
+        "date": "2026-03-12",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Thermodynamics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 35,
+        "completed": false,
+        "total_questions": 25,
+        "attempted": 12,
+        "skipped": 13,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 11,
+          "integer": 1
+        },
+        "marks": "14/100",
+        "avg_time_per_question_seconds": 199,
+        "slowest_question_id": "Q_PHY_0012",
+        "slowest_question_time_seconds": 404,
+        "fastest_question_id": "Q_PHY_0078",
+        "fastest_question_time_seconds": 37
+      },
+      {
+        "attempt_id": "ATT_001_06",
+        "date": "2026-03-20",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Laws of Motion"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 58,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 23,
+        "skipped": 2,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": 49,
+        "avg_time_per_question_seconds": 162,
+        "slowest_question_id": "Q_PHY_0015",
+        "slowest_question_time_seconds": 426,
+        "fastest_question_id": "Q_PHY_0080",
+        "fastest_question_time_seconds": 40
+      }
+    ]
+  },
+  {
+    "student_id": "STU_002",
+    "name": "Priya Patel",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_002_01",
+        "date": "2026-02-08",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Thermodynamics",
+          "Laws of Motion"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 37,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 29,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 25,
+          "integer": 4
+        },
+        "marks": "30/120",
+        "avg_time_per_question_seconds": 62,
+        "slowest_question_id": "Q_PHY_0035",
+        "slowest_question_time_seconds": 124,
+        "fastest_question_id": "Q_PHY_0012",
+        "fastest_question_time_seconds": 11
+      },
+      {
+        "attempt_id": "ATT_002_02",
+        "date": "2026-02-14",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Physical Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 33,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "20",
+        "avg_time_per_question_seconds": 68,
+        "slowest_question_id": "Q_CHE_0054",
+        "slowest_question_time_seconds": 139,
+        "fastest_question_id": "Q_CHE_0001",
+        "fastest_question_time_seconds": 11
+      },
+      {
+        "attempt_id": "ATT_002_03",
+        "date": "2026-02-22",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Coordinate Geometry",
+          "Algebra"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 39,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "+24 -14",
+        "avg_time_per_question_seconds": 52,
+        "slowest_question_id": "Q_MAT_0036",
+        "slowest_question_time_seconds": 131,
+        "fastest_question_id": "Q_MAT_0008",
+        "fastest_question_time_seconds": 14
+      },
+      {
+        "attempt_id": "ATT_002_04",
+        "date": "2026-03-01",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Laws of Motion",
+          "Thermodynamics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 39,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "marks": "25/120 (20.8%)",
+        "avg_time_per_question_seconds": 60,
+        "slowest_question_id": "Q_PHY_0043",
+        "slowest_question_time_seconds": 127,
+        "fastest_question_id": "Q_PHY_0007",
+        "fastest_question_time_seconds": 13
+      },
+      {
+        "attempt_id": "ATT_002_05",
+        "date": "2026-03-09",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 30,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": 20,
+        "avg_time_per_question_seconds": 67,
+        "slowest_question_id": "Q_CHE_0051",
+        "slowest_question_time_seconds": 117,
+        "fastest_question_id": "Q_CHE_0010",
+        "fastest_question_time_seconds": 9
+      },
+      {
+        "attempt_id": "ATT_002_06",
+        "date": "2026-03-16",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Heat Transfer",
+          "Rotational Mechanics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 28,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 29,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 25,
+          "integer": 4
+        },
+        "marks": "15/120",
+        "avg_time_per_question_seconds": 63,
+        "slowest_question_id": "Q_PHY_0053",
+        "slowest_question_time_seconds": 97,
+        "fastest_question_id": "Q_PHY_0011",
+        "fastest_question_time_seconds": 16
+      },
+      {
+        "attempt_id": "ATT_002_07",
+        "date": "2026-03-23",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Coordinate Geometry",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 39,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 29,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 25,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 25,
+          "integer": 4
+        },
+        "marks": "+32 -17",
+        "avg_time_per_question_seconds": 70,
+        "slowest_question_id": "Q_MAT_0053",
+        "slowest_question_time_seconds": 106,
+        "fastest_question_id": "Q_MAT_0009",
+        "fastest_question_time_seconds": 10
+      }
+    ]
+  },
+  {
+    "student_id": "STU_003",
+    "name": "Rohan Gupta",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_003_01",
+        "date": "2026-02-12",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Rotational Mechanics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 47,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 21,
+        "skipped": 9,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "mcq": 1,
+          "integer": 0
+        },
+        "marks": "49/120",
+        "avg_time_per_question_seconds": 95,
+        "slowest_question_id": "Q_PHY_0018",
+        "slowest_question_time_seconds": 199,
+        "fastest_question_id": "Q_PHY_0017",
+        "fastest_question_time_seconds": 20
+      },
+      {
+        "attempt_id": "ATT_003_02",
+        "date": "2026-02-20",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Coordinate Geometry",
+          "Algebra"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 48,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 19,
+        "skipped": 11,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 18,
+          "mcq": 0,
+          "integer": 1
+        },
+        "marks": "52/120 (43.3%)",
+        "avg_time_per_question_seconds": 104,
+        "slowest_question_id": "Q_MAT_0008",
+        "slowest_question_time_seconds": 153,
+        "fastest_question_id": "Q_MAT_0008",
+        "fastest_question_time_seconds": 22
+      },
+      {
+        "attempt_id": "ATT_003_03",
+        "date": "2026-02-28",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Electrostatics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 42,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 19,
+        "skipped": 11,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 19,
+          "mcq": 0,
+          "integer": 0
+        },
+        "marks": "41",
+        "avg_time_per_question_seconds": 120,
+        "slowest_question_id": "Q_PHY_0006",
+        "slowest_question_time_seconds": 166,
+        "fastest_question_id": "Q_PHY_0017",
+        "fastest_question_time_seconds": 33
+      },
+      {
+        "attempt_id": "ATT_003_04",
+        "date": "2026-03-07",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 45,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 22,
+        "skipped": 8,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "mcq": 1,
+          "integer": 1
+        },
+        "marks": "+64 -5",
+        "avg_time_per_question_seconds": 108,
+        "slowest_question_id": "Q_CHE_0015",
+        "slowest_question_time_seconds": 207,
+        "fastest_question_id": "Q_CHE_0017",
+        "fastest_question_time_seconds": 34
+      },
+      {
+        "attempt_id": "ATT_003_05",
+        "date": "2026-03-14",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Calculus",
+          "Probability"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 43,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 19,
+        "skipped": 11,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 18,
+          "mcq": 0,
+          "integer": 1
+        },
+        "marks": 37,
+        "avg_time_per_question_seconds": 99,
+        "slowest_question_id": "Q_MAT_0019",
+        "slowest_question_time_seconds": 164,
+        "fastest_question_id": "Q_MAT_0001",
+        "fastest_question_time_seconds": 22
+      },
+      {
+        "attempt_id": "ATT_003_06",
+        "date": "2026-03-22",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Optics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 48,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 18,
+        "skipped": 12,
+        "question_type_split": {
+          "scq": 20,
+          "mcq": 5,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 18,
+          "mcq": 0,
+          "integer": 0
+        },
+        "marks": "52/120",
+        "avg_time_per_question_seconds": 106,
+        "slowest_question_id": "Q_PHY_0003",
+        "slowest_question_time_seconds": 182,
+        "fastest_question_id": "Q_PHY_0008",
+        "fastest_question_time_seconds": 28
+      }
+    ]
+  },
+  {
+    "student_id": "STU_004",
+    "name": "Meera Iyer",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_004_01",
+        "date": "2026-02-05",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Heat Transfer",
+          "Laws of Motion"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "19/100",
+        "avg_time_per_question_seconds": 104,
+        "slowest_question_id": "Q_PHY_0053",
+        "slowest_question_time_seconds": 253,
+        "fastest_question_id": "Q_PHY_0010",
+        "fastest_question_time_seconds": 40
+      },
+      {
+        "attempt_id": "ATT_004_02",
+        "date": "2026-02-13",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 53,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "+44 -11",
+        "avg_time_per_question_seconds": 103,
+        "slowest_question_id": "Q_CHE_0033",
+        "slowest_question_time_seconds": 235,
+        "fastest_question_id": "Q_CHE_0006",
+        "fastest_question_time_seconds": 38
+      },
+      {
+        "attempt_id": "ATT_004_03",
+        "date": "2026-02-21",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Probability",
+          "Algebra",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 57,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "38",
+        "avg_time_per_question_seconds": 120,
+        "slowest_question_id": "Q_MAT_0050",
+        "slowest_question_time_seconds": 192,
+        "fastest_question_id": "Q_MAT_0001",
+        "fastest_question_time_seconds": 37
+      },
+      {
+        "attempt_id": "ATT_004_04",
+        "date": "2026-03-01",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Thermodynamics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 53,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "48/100 (48.0%)",
+        "avg_time_per_question_seconds": 106,
+        "slowest_question_id": "Q_PHY_0036",
+        "slowest_question_time_seconds": 248,
+        "fastest_question_id": "Q_PHY_0008",
+        "fastest_question_time_seconds": 29
+      },
+      {
+        "attempt_id": "ATT_004_05",
+        "date": "2026-03-10",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Physical Chemistry",
+          "Organic Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 55,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "57/100",
+        "avg_time_per_question_seconds": 107,
+        "slowest_question_id": "Q_CHE_0057",
+        "slowest_question_time_seconds": 189,
+        "fastest_question_id": "Q_CHE_0008",
+        "fastest_question_time_seconds": 28
+      },
+      {
+        "attempt_id": "ATT_004_06",
+        "date": "2026-03-18",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Calculus",
+          "Coordinate Geometry",
+          "Probability"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 52,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": 62,
+        "avg_time_per_question_seconds": 129,
+        "slowest_question_id": "Q_MAT_0054",
+        "slowest_question_time_seconds": 210,
+        "fastest_question_id": "Q_MAT_0003",
+        "fastest_question_time_seconds": 38
+      },
+      {
+        "attempt_id": "ATT_004_07",
+        "date": "2026-03-26",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Heat Transfer",
+          "Optics",
+          "Laws of Motion"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 58,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "+76 -4",
+        "avg_time_per_question_seconds": 112,
+        "slowest_question_id": "Q_PHY_0058",
+        "slowest_question_time_seconds": 187,
+        "fastest_question_id": "Q_PHY_0003",
+        "fastest_question_time_seconds": 37
+      }
+    ]
+  },
+  {
+    "student_id": "STU_005",
+    "name": "Karan Mehta",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_005_01",
+        "date": "2026-02-06",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 54,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "63/100",
+        "avg_time_per_question_seconds": 122,
+        "slowest_question_id": "Q_PHY_0042",
+        "slowest_question_time_seconds": 273,
+        "fastest_question_id": "Q_PHY_0013",
+        "fastest_question_time_seconds": 37
+      },
+      {
+        "attempt_id": "ATT_005_02",
+        "date": "2026-02-15",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Algebra",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 50,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "58",
+        "avg_time_per_question_seconds": 129,
+        "slowest_question_id": "Q_MAT_0021",
+        "slowest_question_time_seconds": 275,
+        "fastest_question_id": "Q_MAT_0006",
+        "fastest_question_time_seconds": 23
+      },
+      {
+        "attempt_id": "ATT_005_03",
+        "date": "2026-02-24",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Rotational Mechanics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 58,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "39/100 (39.0%)",
+        "avg_time_per_question_seconds": 105,
+        "slowest_question_id": "Q_PHY_0021",
+        "slowest_question_time_seconds": 245,
+        "fastest_question_id": "Q_PHY_0002",
+        "fastest_question_time_seconds": 27
+      },
+      {
+        "attempt_id": "ATT_005_04",
+        "date": "2026-03-05",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Chemical Bonding"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 23,
+        "skipped": 2,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": "+28 -13",
+        "avg_time_per_question_seconds": 102,
+        "slowest_question_id": "Q_CHE_0050",
+        "slowest_question_time_seconds": 252,
+        "fastest_question_id": "Q_CHE_0004",
+        "fastest_question_time_seconds": 23
+      },
+      {
+        "attempt_id": "ATT_005_05",
+        "date": "2026-03-13",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Rotational Mechanics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 27,
+        "completed": false,
+        "total_questions": 25,
+        "attempted": 11,
+        "skipped": 14,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 9,
+          "integer": 2
+        },
+        "marks": "1/100",
+        "avg_time_per_question_seconds": 128,
+        "slowest_question_id": "Q_PHY_0030",
+        "slowest_question_time_seconds": 213,
+        "fastest_question_id": "Q_PHY_0004",
+        "fastest_question_time_seconds": 32
+      },
+      {
+        "attempt_id": "ATT_005_06",
+        "date": "2026-03-21",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Algebra",
+          "Probability"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 28,
+        "completed": false,
+        "total_questions": 25,
+        "attempted": 11,
+        "skipped": 14,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 11,
+          "integer": 0
+        },
+        "marks": 4,
+        "avg_time_per_question_seconds": 114,
+        "slowest_question_id": "Q_MAT_0034",
+        "slowest_question_time_seconds": 220,
+        "fastest_question_id": "Q_MAT_0015",
+        "fastest_question_time_seconds": 24
+      }
+    ]
+  },
+  {
+    "student_id": "STU_006",
+    "name": "Ananya Reddy",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_006_01",
+        "date": "2026-02-09",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "86/100",
+        "avg_time_per_question_seconds": 98,
+        "slowest_question_id": "Q_PHY_0024",
+        "slowest_question_time_seconds": 224,
+        "fastest_question_id": "Q_PHY_0015",
+        "fastest_question_time_seconds": 20
+      },
+      {
+        "attempt_id": "ATT_006_02",
+        "date": "2026-02-17",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 38,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 16,
+        "skipped": 9,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 16,
+          "integer": 0
+        },
+        "marks": "+16 -12",
+        "avg_time_per_question_seconds": 92,
+        "slowest_question_id": "Q_CHE_0029",
+        "slowest_question_time_seconds": 258,
+        "fastest_question_id": "Q_CHE_0013",
+        "fastest_question_time_seconds": 34
+      },
+      {
+        "attempt_id": "ATT_006_03",
+        "date": "2026-02-26",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Electrostatics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 50,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 19,
+          "integer": 5
+        },
+        "marks": "77",
+        "avg_time_per_question_seconds": 98,
+        "slowest_question_id": "Q_PHY_0023",
+        "slowest_question_time_seconds": 193,
+        "fastest_question_id": "Q_PHY_0012",
+        "fastest_question_time_seconds": 35
+      },
+      {
+        "attempt_id": "ATT_006_04",
+        "date": "2026-03-06",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 41,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 16,
+        "skipped": 9,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 16,
+          "integer": 0
+        },
+        "marks": "9/100 (9.0%)",
+        "avg_time_per_question_seconds": 80,
+        "slowest_question_id": "Q_CHE_0026",
+        "slowest_question_time_seconds": 267,
+        "fastest_question_id": "Q_CHE_0011",
+        "fastest_question_time_seconds": 26
+      },
+      {
+        "attempt_id": "ATT_006_05",
+        "date": "2026-03-15",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Rotational Mechanics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 54,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": 77,
+        "avg_time_per_question_seconds": 116,
+        "slowest_question_id": "Q_PHY_0028",
+        "slowest_question_time_seconds": 185,
+        "fastest_question_id": "Q_PHY_0001",
+        "fastest_question_time_seconds": 28
+      },
+      {
+        "attempt_id": "ATT_006_06",
+        "date": "2026-03-22",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 38,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 15,
+        "skipped": 10,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 15,
+          "integer": 0
+        },
+        "marks": "10/100",
+        "avg_time_per_question_seconds": 92,
+        "slowest_question_id": "Q_CHE_0033",
+        "slowest_question_time_seconds": 251,
+        "fastest_question_id": "Q_CHE_0001",
+        "fastest_question_time_seconds": 21
+      },
+      {
+        "attempt_id": "ATT_006_07",
+        "date": "2026-03-29",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Electrostatics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 53,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "+84 -3",
+        "avg_time_per_question_seconds": 108,
+        "slowest_question_id": "Q_PHY_0037",
+        "slowest_question_time_seconds": 198,
+        "fastest_question_id": "Q_PHY_0007",
+        "fastest_question_time_seconds": 22
+      }
+    ]
+  },
+  {
+    "student_id": "STU_007",
+    "name": "Vikram Singh",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_007_01",
+        "date": "2026-02-11",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Thermodynamics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 33,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 23,
+        "skipped": 7,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": "68/120",
+        "avg_time_per_question_seconds": 61,
+        "slowest_question_id": "Q_PHY_0047",
+        "slowest_question_time_seconds": 127,
+        "fastest_question_id": "Q_PHY_0002",
+        "fastest_question_time_seconds": 15
+      },
+      {
+        "attempt_id": "ATT_007_02",
+        "date": "2026-02-19",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Probability",
+          "Coordinate Geometry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 42,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 24,
+        "skipped": 6,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "72",
+        "avg_time_per_question_seconds": 45,
+        "slowest_question_id": "Q_MAT_0068",
+        "slowest_question_time_seconds": 111,
+        "fastest_question_id": "Q_MAT_0001",
+        "fastest_question_time_seconds": 12
+      },
+      {
+        "attempt_id": "ATT_007_03",
+        "date": "2026-02-27",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Chemical Bonding",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 42,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 22,
+        "skipped": 8,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 18,
+          "integer": 4
+        },
+        "marks": "+68 -4",
+        "avg_time_per_question_seconds": 47,
+        "slowest_question_id": "Q_CHE_0048",
+        "slowest_question_time_seconds": 95,
+        "fastest_question_id": "Q_CHE_0013",
+        "fastest_question_time_seconds": 21
+      },
+      {
+        "attempt_id": "ATT_007_04",
+        "date": "2026-03-08",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Kinematics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 37,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 25,
+        "skipped": 5,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "62/120 (51.7%)",
+        "avg_time_per_question_seconds": 51,
+        "slowest_question_id": "Q_PHY_0049",
+        "slowest_question_time_seconds": 99,
+        "fastest_question_id": "Q_PHY_0004",
+        "fastest_question_time_seconds": 10
+      },
+      {
+        "attempt_id": "ATT_007_05",
+        "date": "2026-03-17",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Algebra",
+          "Probability"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 42,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 23,
+        "skipped": 7,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": 68,
+        "avg_time_per_question_seconds": 48,
+        "slowest_question_id": "Q_MAT_0051",
+        "slowest_question_time_seconds": 126,
+        "fastest_question_id": "Q_MAT_0009",
+        "fastest_question_time_seconds": 16
+      },
+      {
+        "attempt_id": "ATT_007_06",
+        "date": "2026-03-25",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Rotational Mechanics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 34,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 23,
+        "skipped": 7,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": "58/120",
+        "avg_time_per_question_seconds": 45,
+        "slowest_question_id": "Q_PHY_0058",
+        "slowest_question_time_seconds": 101,
+        "fastest_question_id": "Q_PHY_0001",
+        "fastest_question_time_seconds": 11
+      }
+    ]
+  },
+  {
+    "student_id": "STU_008",
+    "name": "Deepa Krishnan",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_008_01",
+        "date": "2026-02-07",
+        "mode": "assignment",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Rotational Mechanics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 120,
+        "time_taken_minutes": 83,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "68/100",
+        "avg_time_per_question_seconds": 188,
+        "slowest_question_id": "Q_PHY_0036",
+        "slowest_question_time_seconds": 229,
+        "fastest_question_id": "Q_PHY_0007",
+        "fastest_question_time_seconds": 48
+      },
+      {
+        "attempt_id": "ATT_008_02",
+        "date": "2026-02-10",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Laws of Motion",
+          "Thermodynamics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 53,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 23,
+        "skipped": 2,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 3
+        },
+        "marks": "+24 -14",
+        "avg_time_per_question_seconds": 114,
+        "slowest_question_id": "Q_PHY_0041",
+        "slowest_question_time_seconds": 175,
+        "fastest_question_id": "Q_PHY_0006",
+        "fastest_question_time_seconds": 28
+      },
+      {
+        "attempt_id": "ATT_008_03",
+        "date": "2026-02-18",
+        "mode": "assignment",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 120,
+        "time_taken_minutes": 79,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "72",
+        "avg_time_per_question_seconds": 182,
+        "slowest_question_id": "Q_CHE_0029",
+        "slowest_question_time_seconds": 304,
+        "fastest_question_id": "Q_CHE_0006",
+        "fastest_question_time_seconds": 42
+      },
+      {
+        "attempt_id": "ATT_008_04",
+        "date": "2026-02-21",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Chemical Bonding",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 51,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 22,
+        "skipped": 3,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 2
+        },
+        "marks": "10/100 (10.0%)",
+        "avg_time_per_question_seconds": 91,
+        "slowest_question_id": "Q_CHE_0039",
+        "slowest_question_time_seconds": 188,
+        "fastest_question_id": "Q_CHE_0007",
+        "fastest_question_time_seconds": 15
+      },
+      {
+        "attempt_id": "ATT_008_05",
+        "date": "2026-03-02",
+        "mode": "assignment",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Coordinate Geometry",
+          "Algebra"
+        ],
+        "duration_minutes": 120,
+        "time_taken_minutes": 89,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": 72,
+        "avg_time_per_question_seconds": 191,
+        "slowest_question_id": "Q_MAT_0030",
+        "slowest_question_time_seconds": 319,
+        "fastest_question_id": "Q_MAT_0008",
+        "fastest_question_time_seconds": 44
+      },
+      {
+        "attempt_id": "ATT_008_06",
+        "date": "2026-03-05",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Algebra",
+          "Coordinate Geometry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 46,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 20,
+        "skipped": 5,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 17,
+          "integer": 3
+        },
+        "marks": "8/100",
+        "avg_time_per_question_seconds": 98,
+        "slowest_question_id": "Q_MAT_0036",
+        "slowest_question_time_seconds": 192,
+        "fastest_question_id": "Q_MAT_0002",
+        "fastest_question_time_seconds": 22
+      },
+      {
+        "attempt_id": "ATT_008_07",
+        "date": "2026-03-14",
+        "mode": "assignment",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Thermodynamics"
+        ],
+        "duration_minutes": 120,
+        "time_taken_minutes": 71,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "+68 -6",
+        "avg_time_per_question_seconds": 165,
+        "slowest_question_id": "Q_PHY_0035",
+        "slowest_question_time_seconds": 218,
+        "fastest_question_id": "Q_PHY_0008",
+        "fastest_question_time_seconds": 43
+      },
+      {
+        "attempt_id": "ATT_008_08",
+        "date": "2026-03-17",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Electrostatics",
+          "Rotational Mechanics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 52,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 22,
+        "skipped": 3,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 19,
+          "integer": 3
+        },
+        "marks": "11",
+        "avg_time_per_question_seconds": 105,
+        "slowest_question_id": "Q_PHY_0027",
+        "slowest_question_time_seconds": 168,
+        "fastest_question_id": "Q_PHY_0011",
+        "fastest_question_time_seconds": 15
+      }
+    ]
+  },
+  {
+    "student_id": "STU_009",
+    "name": "Amit Verma",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_009_01",
+        "date": "2026-02-08",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Optics",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 60,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "40/100",
+        "avg_time_per_question_seconds": 129,
+        "slowest_question_id": "Q_PHY_0071",
+        "slowest_question_time_seconds": 371,
+        "fastest_question_id": "Q_PHY_0004",
+        "fastest_question_time_seconds": 28
+      },
+      {
+        "attempt_id": "ATT_009_02",
+        "date": "2026-02-16",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Probability",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 57,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 19,
+          "integer": 5
+        },
+        "marks": "+48 -7",
+        "avg_time_per_question_seconds": 128,
+        "slowest_question_id": "Q_MAT_0089",
+        "slowest_question_time_seconds": 404,
+        "fastest_question_id": "Q_MAT_0012",
+        "fastest_question_time_seconds": 41
+      },
+      {
+        "attempt_id": "ATT_009_03",
+        "date": "2026-02-25",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Heat Transfer",
+          "Rotational Mechanics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "45/100 (45.0%)",
+        "avg_time_per_question_seconds": 115,
+        "slowest_question_id": "Q_PHY_0096",
+        "slowest_question_time_seconds": 381,
+        "fastest_question_id": "Q_PHY_0005",
+        "fastest_question_time_seconds": 41
+      },
+      {
+        "attempt_id": "ATT_009_04",
+        "date": "2026-03-03",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Physical Chemistry",
+          "Organic Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 56,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 24,
+        "skipped": 1,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 4
+        },
+        "marks": "35",
+        "avg_time_per_question_seconds": 121,
+        "slowest_question_id": "Q_CHE_0080",
+        "slowest_question_time_seconds": 414,
+        "fastest_question_id": "Q_CHE_0009",
+        "fastest_question_time_seconds": 27
+      },
+      {
+        "attempt_id": "ATT_009_05",
+        "date": "2026-03-12",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Algebra",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 53,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": 45,
+        "avg_time_per_question_seconds": 126,
+        "slowest_question_id": "Q_MAT_0083",
+        "slowest_question_time_seconds": 342,
+        "fastest_question_id": "Q_MAT_0009",
+        "fastest_question_time_seconds": 39
+      },
+      {
+        "attempt_id": "ATT_009_06",
+        "date": "2026-03-20",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Heat Transfer",
+          "Kinematics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 52,
+        "completed": true,
+        "total_questions": 25,
+        "attempted": 25,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 5
+        },
+        "marks": "40/100",
+        "avg_time_per_question_seconds": 124,
+        "slowest_question_id": "Q_PHY_0085",
+        "slowest_question_time_seconds": 300,
+        "fastest_question_id": "Q_PHY_0006",
+        "fastest_question_time_seconds": 34
+      }
+    ]
+  },
+  {
+    "student_id": "STU_010",
+    "name": "Neha Joshi",
+    "class": 12,
+    "stream": "JEE",
+    "attempts": [
+      {
+        "attempt_id": "ATT_010_01",
+        "date": "2026-02-07",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Optics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 54,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "102/120",
+        "avg_time_per_question_seconds": 92,
+        "slowest_question_id": "Q_PHY_0053",
+        "slowest_question_time_seconds": 167,
+        "fastest_question_id": "Q_PHY_0009",
+        "fastest_question_time_seconds": 27
+      },
+      {
+        "attempt_id": "ATT_010_02",
+        "date": "2026-02-14",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Chemical Bonding",
+          "Organic Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 52,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "97",
+        "avg_time_per_question_seconds": 88,
+        "slowest_question_id": "Q_CHE_0045",
+        "slowest_question_time_seconds": 121,
+        "fastest_question_id": "Q_CHE_0007",
+        "fastest_question_time_seconds": 20
+      },
+      {
+        "attempt_id": "ATT_010_03",
+        "date": "2026-02-22",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Probability",
+          "Coordinate Geometry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 55,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "+96 -4",
+        "avg_time_per_question_seconds": 79,
+        "slowest_question_id": "Q_MAT_0049",
+        "slowest_question_time_seconds": 154,
+        "fastest_question_id": "Q_MAT_0001",
+        "fastest_question_time_seconds": 21
+      },
+      {
+        "attempt_id": "ATT_010_04",
+        "date": "2026-03-01",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Rotational Mechanics",
+          "Electrostatics"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 49,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "78/120 (65.0%)",
+        "avg_time_per_question_seconds": 95,
+        "slowest_question_id": "Q_PHY_0043",
+        "slowest_question_time_seconds": 128,
+        "fastest_question_id": "Q_PHY_0008",
+        "fastest_question_time_seconds": 17
+      },
+      {
+        "attempt_id": "ATT_010_05",
+        "date": "2026-03-09",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Chemistry",
+        "chapters": [
+          "Organic Chemistry",
+          "Physical Chemistry"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 51,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": 97,
+        "avg_time_per_question_seconds": 89,
+        "slowest_question_id": "Q_CHE_0040",
+        "slowest_question_time_seconds": 141,
+        "fastest_question_id": "Q_CHE_0007",
+        "fastest_question_time_seconds": 19
+      },
+      {
+        "attempt_id": "ATT_010_06",
+        "date": "2026-03-16",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Physics",
+        "chapters": [
+          "Optics",
+          "Heat Transfer"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 49,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "92/120",
+        "avg_time_per_question_seconds": 90,
+        "slowest_question_id": "Q_PHY_0030",
+        "slowest_question_time_seconds": 167,
+        "fastest_question_id": "Q_PHY_0009",
+        "fastest_question_time_seconds": 15
+      },
+      {
+        "attempt_id": "ATT_010_07",
+        "date": "2026-03-24",
+        "mode": "test",
+        "exam_pattern": "mains",
+        "subject": "Mathematics",
+        "chapters": [
+          "Coordinate Geometry",
+          "Calculus"
+        ],
+        "duration_minutes": 60,
+        "time_taken_minutes": 48,
+        "completed": true,
+        "total_questions": 30,
+        "attempted": 30,
+        "skipped": 0,
+        "question_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "attempted_type_split": {
+          "scq": 20,
+          "integer": 10
+        },
+        "marks": "+100 -3",
+        "avg_time_per_question_seconds": 99,
+        "slowest_question_id": "Q_MAT_0030",
+        "slowest_question_time_seconds": 180,
+        "fastest_question_id": "Q_MAT_0004",
+        "fastest_question_time_seconds": 18
+      }
+    ]
+  }
+]

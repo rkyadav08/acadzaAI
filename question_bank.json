@@ -1,0 +1,3088 @@
+[
+  {
+    "_id": {
+      "$oid": "d3b6e9e8325916a427bc1985"
+    },
+    "qid": "Q_CHE_0001",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "kinetics",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The IUPAC name of CH₃CH₂OH is:</span></h3><h3>(A) Methanol<br />(B) Ethanol<br />(C) Propanol<br />(D) Butanol</h3>",
+      "solution": "<h3>CH₃CH₂OH has 2 carbons with an -OH group, hence ethanol.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "876ec085d329a388ecf7aee0",
+    "qid": "Q_CHE_0047",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "kinetics",
+    "difficulty": 2,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Predict: The shape of SF₆ molecule is:</span></h3><h3>(A) Tetrahedral<br />(B) Square planar<br />(C) Octahedral<br />(D) Trigonal bipyramidal</h3>",
+      "solution": "<h3>SF₆ has 6 bond pairs and 0 lone pairs — octahedral.</h3>",
+      "answer": "C,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3e5233f726daca34a615a238"
+    },
+    "qid": "Q_MAT_0038",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "integration",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The equation of a circle with center (0,0) and radius 5 is:</span></h3><h3>(A) x² + y² = 5<br />(B) x² + y² = 25<br />(C) x + y = 5<br />(D) x² - y² = 25</h3>",
+      "solution": "<h3>x² + y² = r² = 25</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "99ed5ebe1bd812cb504e1427"
+    },
+    "qid": "Q_PHY_0055",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">For a body in simple harmonic motion, which statements are correct?</span></h3><h3>(A) Velocity is maximum at mean position<br />(B) Acceleration is maximum at extreme position<br />(C) KE is maximum at extreme position<br />(D) Total energy is constant</h3>",
+      "solution": "<h3>In SHM: v is max at mean, a is max at extreme, KE is max at mean (not extreme), total energy is constant.</h3>",
+      "answer": "A,B,D"
+    }
+  },
+  {
+    "_id": "37da0583c701f4b275f2a11b",
+    "qid": "Q_CHE_0059",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "molecular_orbital",
+    "difficulty": 2,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">In a reaction, The VSEPR shape of NH₃ is:</span></h3><h3>(A) Tetrahedral<br />(B) Trigonal planar<br />(C) Trigonal pyramidal<br />(D) Linear</h3>",
+      "solution": "<h3>NH₃ has 3 bp + 1 lp = trigonal pyramidal.</h3>",
+      "answer": "A,B,D"
+    }
+  },
+  {
+    "_id": "0c50b7a2c6f49ada33214516",
+    "qid": "Q_MAT_0001",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "parabola",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The derivative of x³ + 2x is:</span></h3><h3>(A) 3x² + 2<br />(B) x² + 2<br />(C) 3x² + 2x<br />(D) 3x + 2</h3>",
+      "solution": "<h3>d/dx(x³ + 2x) = 3x² + 2</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c75cc782d7898d625493ee8f"
+    },
+    "qid": "Q_CHE_0056",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Predict: The number of isomers of C₄H₁₀ is:</span></h3><h3>(A) 1<br />(B) 2<br />(C) 3<br />(D) 4</h3>",
+      "solution": "<h3>C₄H₁₀: n-butane and isobutane = 2 isomers.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "97529ae140f13c12dc5eb9a6"
+    },
+    "qid": "Q_MAT_0023",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "circles",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">∫ 1/x dx equals:</span></h3><h3>(A) ln|x| + C<br />(B) x + C<br />(C) 1/x² + C<br />(D) -1/x² + C</h3>",
+      "solution": "<h3>∫ 1/x dx = ln|x| + C</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bd39f917c10696489a30fd54"
+    },
+    "qid": "Q_PHY_0043",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A body cools from 80°C to 60°C in 5 min. By Newton's law, it cools to ~48°C in next 5 min if surrounding is at 20°C. The average temperature used is:</span></h3><h3>(A) 70°C and 54°C<br />(B) 80°C and 60°C<br />(C) 60°C and 48°C<br />(D) 50°C and 40°C</h3>",
+      "solution": "<h3>Newton's law: dT/dt ∝ (T_avg - T_surr). First interval avg = 70, second = ~54.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9bd07633b7e681634ff5511b"
+    },
+    "qid": "Q_MAT_0040",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "conditional_probability",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If f(x) = eˣ, then f'(x) is:</span></h3><h3>(A) eˣ<br />(B) xeˣ⁻¹<br />(C) 1/eˣ<br />(D) ln(x)</h3>",
+      "solution": "<h3>d/dx(eˣ) = eˣ</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "786d3748421599e3e9c8fe21",
+    "qid": "Q_PHY_0026",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The power of a lens with focal length -25 cm is:</span></h3><h3>(A) -4 D<br />(B) +4 D<br />(C) -25 D<br />(D) +25 D</h3>",
+      "solution": "<h3>P = 1/f(in meters) = 1/(-0.25) = -4 D</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "93ccb49192be8f6688437717"
+    },
+    "qid": "Q_PHY_0065",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A Carnot engine operates between 300 K and 600 K. Its efficiency is:</span></h3><h3>(A) 100%<br />(B) 50%<br />(C) 25%<br />(D) 75%</h3>",
+      "solution": "<h3>η = 1 - T_cold/T_hot = 1 - 300/600 = 0.5 = 50%</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "3f485a27b79dab89e3f12f63",
+    "qid": "Q_CHE_0018",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The catalyst used in Haber's process is:</span></h3><h3>(A) V₂O₅<br />(B) Pt<br />(C) Fe<br />(D) Ni</h3>",
+      "solution": "<h3>Iron (Fe) is the catalyst in Haber's process for NH₃ synthesis.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8c037ce716e36fc9a5138f96"
+    },
+    "qid": "Q_CHE_0058",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "alcohols_ethers",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The catalyst used in Haber's process is:</span></h3><h3>(A) V₂O₅<br />(B) Pt<br />(C) Fe<br />(D) Ni</h3>",
+      "solution": "<h3>Iron (Fe) is the catalyst in Haber's process for NH₃ synthesis.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "590d273e34f98dff7e4c6428",
+    "qid": "Q_PHY_0029",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "angular_momentum",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A wire of resistance R is stretched to double its length. New resistance is:</span></h3><h3>(A) R<br />(B) 2R<br />(C) 4R<br />(D) R/2</h3>",
+      "solution": "<h3>Volume constant: A' = A/2, l' = 2l. R' = ρ(2l)/(A/2) = 4R</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cdfc016b0a60077b943c9521"
+    },
+    "qid": "Q_CHE_0020",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 1,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The hybridization of carbon in diamond is:</span></h3><h3>(A) sp<br />(B) sp²<br />(C) sp³<br />(D) sp³d</h3>",
+      "solution": "<h3>Each carbon in diamond forms 4 sigma bonds — sp³.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "3e3e04d42f8ac2acaf127972",
+    "qid": "Q_PHY_0031",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pseudo_forces",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Two identical springs of spring constant k are connected in series. Effective k is:</span></h3><h3>(A) 2k<br />(B) k<br />(C) k/2<br />(D) k/4</h3>",
+      "solution": "<h3>In series: 1/k_eff = 1/k + 1/k = 2/k. k_eff = k/2</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b9951981f51909f242884888"
+    },
+    "qid": "Q_MAT_0030",
+    "questionType": "mcq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "parabola",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following functions are continuous at x = 0?</span></h3><h3>(A) sin(x)/x (defined as 1 at 0)<br />(B) |x|<br />(C) 1/x<br />(D) eˣ</h3>",
+      "solution": "<h3>sin(x)/x (with f(0)=1), |x|, and eˣ are continuous at 0. 1/x is not defined at 0.</h3>",
+      "answer": "A,B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "669cbee3772a077021721a27"
+    },
+    "qid": "Q_PHY_0006",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "rolling",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The moment of inertia of a solid sphere about a diameter is:</span></h3><h3>(A) 2MR²/5<br />(B) MR²/2<br />(C) 2MR²/3<br />(D) MR²</h3>",
+      "solution": "<h3>Standard result: I = 2MR²/5 for solid sphere about diameter.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "931a4c4555e1db7e9e779f6b",
+    "qid": "Q_PHY_0049",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "newtons_laws",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The total number of fundamental forces in nature is ___</span></h3>",
+      "solution": "<h3>Gravitational, electromagnetic, strong nuclear, weak nuclear = 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "be60cb481fe9f65bae8524e9"
+    },
+    "qid": "Q_CHE_0060",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The hybridization of carbon in diamond is:</span></h3><h3>(A) sp<br />(B) sp²<br />(C) sp³<br />(D) sp³d</h3>",
+      "solution": "<h3>Each carbon in diamond forms 4 sigma bonds — sp³.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6e8b5359309cc6273931bdb2"
+    },
+    "qid": "Q_PHY_0020",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The work done by centripetal force on a body moving in a circle is:</span></h3><h3>(A) Positive<br />(B) Negative<br />(C) Zero<br />(D) Depends on speed</h3>",
+      "solution": "<h3>Centripetal force is perpendicular to velocity, so W = 0.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2c1d0e2adcd93c0a5eb2d37d"
+    },
+    "qid": "Q_PHY_0044",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">A projectile is launched at 45° with speed 20 m/s. The maximum height reached in metres is ___ (g = 10 m/s²)</span></h3>",
+      "solution": "<h3>H = u²sin²θ/(2g) = 400×0.5/20 = 10 m</h3>",
+      "answer": "10"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5cc15a45451d99e95346080e"
+    },
+    "qid": "Q_MAT_0015",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "differential_equations",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The general solution of dy/dx = y is:</span></h3><h3>(A) y = eˣ + C<br />(B) y = Ceˣ<br />(C) y = x + C<br />(D) y = Ce⁻ˣ</h3>",
+      "solution": "<h3>dy/y = dx. ln|y| = x + c. y = Ceˣ</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "e2a8a3c0ed16bfe16849ef30",
+    "qid": "Q_PHY_0028",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The critical angle for total internal reflection depends on:</span></h3><h3>(A) Angle of incidence<br />(B) Refractive index<br />(C) Wavelength only<br />(D) Intensity</h3>",
+      "solution": "<h3>sin(c) = 1/μ. Critical angle depends on refractive index.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "0cbffbac850a7081fb753778",
+    "qid": "Q_CHE_0004",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "molecular_orbital",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">The hybridization of carbon in CH₄ is:</span></h3><h3>(A) sp<br />(B) sp²<br />(C) sp³<br />(D) sp³d</h3>",
+      "solution": "<h3>CH₄ has 4 bond pairs, so sp³ hybridization.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": "a10443b2bc3a9a45dfa5b75c",
+    "qid": "Q_CHE_0006",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following has the highest ionization energy?</span></h3><h3>(A) Na<br />(B) Mg<br />(C) Al<br />(D) Ne</h3>",
+      "solution": "<h3>Noble gases have the highest ionization energy. Ne > Mg > Na > Al (approximately).</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "b673bd4755d05ad7853c1f76",
+    "qid": "Q_PHY_0012",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of real solutions of x⁴ - 5x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = 1 or x² = 4, giving x = ±1, ±2. Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0020d33eb7986102163324c5"
+    },
+    "qid": "Q_MAT_0033",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "matrices",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Calculate: ∫₀¹ 2x dx equals:</span></h3><h3>(A) 0<br />(B) 1<br />(C) 2<br />(D) 4</h3>",
+      "solution": "<h3>∫₀¹ 2x dx = [x²]₀¹ = 1</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "49b04310c296b6d455786351",
+    "qid": "Q_CHE_0036",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of π bonds in CO₂ is ___</span></h3>",
+      "solution": "<h3>O=C=O has 2 π bonds (one in each C=O).</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9ef4e863a5e850a965cda2c3"
+    },
+    "qid": "Q_PHY_0067",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, The potential energy of a spring stretched by x is:</span></h3><h3>(A) kx<br />(B) kx²<br />(C) ½kx²<br />(D) 2kx²</h3>",
+      "solution": "<h3>PE = ½kx² for a spring.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e5e2ab29955b73647f0bbe42"
+    },
+    "qid": "Q_PHY_0057",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: A particle is projected at 30° with velocity 20 m/s. Find the range. (g = 10 m/s²)</span></h3><h3>(A) 20√3 m<br />(B) 40√3 m<br />(C) 20 m<br />(D) 40 m</h3>",
+      "solution": "<h3>Range = u²sin2θ/g = 400×sin60°/10 = 40√3/10 = 20√3 m</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1ce27d9c44a2f1c82cd44f6f"
+    },
+    "qid": "Q_MAT_0006",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "sequences_series",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The value of lim(x→0) sin(x)/x is:</span></h3><h3>(A) 0<br />(B) 1<br />(C) ∞<br />(D) -1</h3>",
+      "solution": "<h3>Standard limit: lim(x→0) sinx/x = 1</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "53964b50af03b971722f244f"
+    },
+    "qid": "Q_PHY_0005",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "electric_potential",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">An ideal gas undergoes isothermal expansion. Its internal energy:</span></h3><h3>(A) Increases<br />(B) Decreases<br />(C) Remains constant<br />(D) First increases then decreases</h3>",
+      "solution": "<h3>For an ideal gas, internal energy depends only on temperature. In isothermal process, T is constant so ΔU = 0.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "099f4efbacea67c7d1afcc4f"
+    },
+    "qid": "Q_PHY_0030",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 1,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The SI unit of magnetic flux is:</span></h3><h3>(A) Tesla<br />(B) Weber<br />(C) Henry<br />(D) Gauss</h3>",
+      "solution": "<h3>Magnetic flux Φ is measured in Weber (Wb).</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7c2b70a3a4419f4fe020864d"
+    },
+    "qid": "Q_PHY_0051",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "torque",
+    "difficulty": null,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The angular momentum quantum number for a 3d electron is ___</span></h3>",
+      "solution": "<h3>For d orbital, l = 2</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8da85281cca1885e2f6c5f34"
+    },
+    "qid": "Q_MAT_0034",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "differential_equations",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Find: The sum of roots of x² - 5x + 6 = 0 is:</span></h3><h3>(A) 5<br />(B) 6<br />(C) -5<br />(D) -6</h3>",
+      "solution": "<h3>By Vieta's: sum of roots = -(-5)/1 = 5</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "df672eb231645ae36f2e1e4d"
+    },
+    "qid": "Q_PHY_0069",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "torque",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: The de Broglie wavelength of a particle with momentum p is:</span></h3><h3>(A) h/p<br />(B) hp<br />(C) p/h<br />(D) h²/p</h3>",
+      "solution": "<h3>λ = h/p is the de Broglie relation.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "53dfe5cb04ff3de128a07a3d"
+    },
+    "qid": "Q_CHE_0025",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Electronegativity increases:</span></h3><h3>(A) Down a group<br />(B) Left to right in a period<br />(C) With atomic size<br />(D) With metallic character</h3>",
+      "solution": "<h3>Electronegativity increases left to right across a period.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "1ced5dfcbc3f75e2190a832a",
+    "qid": "Q_CHE_0008",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an electrochemical cell, oxidation occurs at the:</span></h3><h3>(A) Cathode<br />(B) Anode<br />(C) Both<br />(D) Neither</h3>",
+      "solution": "<h3>Oxidation occurs at the anode (AN OX — anode oxidation).</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b76aab96f03be771ac3c890b"
+    },
+    "qid": "Q_CHE_0033",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "chemical_equilibrium",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Le Chatelier's principle applies to:</span></h3><h3>(A) Only exothermic reactions<br />(B) Only gaseous reactions<br />(C) Equilibrium systems<br />(D) Irreversible reactions</h3>",
+      "solution": "<h3>Le Chatelier's principle applies to systems at equilibrium.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d331045abe82ba53cce8cfd5"
+    },
+    "qid": "Q_CHE_0024",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 2,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">The geometry of XeF₄ is:</span></h3><h3>(A) Tetrahedral<br />(B) Square planar<br />(C) See-saw<br />(D) Octahedral</h3>",
+      "solution": "<h3>XeF₄ has 4 bp + 2 lp = square planar.</h3>",
+      "answer": "A,C,D"
+    }
+  },
+  {
+    "_id": "f4507898dcbe86e9c30b993f",
+    "qid": "Q_CHE_0016",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of isomers of C₄H₁₀ is:</span></h3><h3>(A) 1<br />(B) 2<br />(C) 3<br />(D) 4</h3>",
+      "solution": "<h3>C₄H₁₀: n-butane and isobutane = 2 isomers.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9c12ba2e9651c69c3bf2e641"
+    },
+    "qid": "Q_MAT_0036",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "conics",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Determine: If P(A) = 0.3 and P(B) = 0.4, and A,B are independent, then P(A∩B) is:</span></h3><h3>(A) 0.7<br />(B) 0.12<br />(C) 0.1<br />(D) 0.70</h3>",
+      "solution": "<h3>P(A∩B) = P(A)×P(B) = 0.3×0.4 = 0.12</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0e952eb9d8e96cf37cb990c8"
+    },
+    "qid": "Q_PHY_0033",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "convection",
+    "difficulty": 5,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">The energy of a photon of frequency ν is:</span></h3><h3>(A) hν<br />(B) h/ν<br />(C) hν²<br />(D) h²ν</h3>",
+      "solution": "<h3>E = hν (Planck's relation).</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2545a102186d0f99f7c9e215"
+    },
+    "qid": "Q_PHY_0059",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "electric_potential",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where A car starts from rest and accelerates uniformly at 4 m/s². Distance covered in 5 s is:</span></h3><h3>(A) 50 m<br />(B) 100 m<br />(C) 20 m<br />(D) 25 m</h3>",
+      "solution": "<h3>s = ½at² = ½×4×25 = 50 m</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "81d06bd2aa399dac946dc59c"
+    },
+    "qid": "Q_PHY_0014",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "angular_momentum",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The coefficient of restitution for a perfectly inelastic collision is:</span></h3><h3>(A) 0<br />(B) 1<br />(C) ∞<br />(D) 0.5</h3>",
+      "solution": "<h3>In perfectly inelastic collision, e = 0.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "3209eb83425ded302b2ac09d",
+    "qid": "Q_PHY_0080",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "carnot_cycle",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: The dimension of Planck's constant is:</span></h3><h3>(A) ML²T⁻¹<br />(B) MLT⁻²<br />(C) ML²T⁻²<br />(D) ML²T⁻³</h3>",
+      "solution": "<h3>h = E/ν. [h] = [ML²T⁻²]/[T⁻¹] = ML²T⁻¹</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6455b37da3fff65d07145414"
+    },
+    "qid": "Q_CHE_0041",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For the compound, The IUPAC name of CH₃CH₂OH is:</span></h3><h3>(A) Methanol<br />(B) Ethanol<br />(C) Propanol<br />(D) Butanol</h3>",
+      "solution": "<h3>CH₃CH₂OH has 2 carbons with an -OH group, hence ethanol.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "35c47009edc77eb48631d076"
+    },
+    "qid": "Q_PHY_0071",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where Young's double slit experiment: if slit separation is halved, fringe width:</span></h3><h3>(A) Doubles<br />(B) Halves<br />(C) Remains same<br />(D) Quadruples</h3>",
+      "solution": "<h3>β = λD/d. If d → d/2, β → 2β. Fringe width doubles.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": "80270815fe85df2fbdaa35ad",
+    "qid": "Q_PHY_0027",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "electric_potential",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A transformer has 100 primary and 500 secondary turns. If input voltage is 220V, output is:</span></h3><h3>(A) 44 V<br />(B) 1100 V<br />(C) 220 V<br />(D) 550 V</h3>",
+      "solution": "<h3>Vs/Vp = Ns/Np. Vs = 220×500/100 = 1100 V</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5a3bfd9d030c411685984196"
+    },
+    "qid": "Q_CHE_0030",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "molecular_orbital",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of real solutions of x⁴ - 5x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = 1 or x² = 4, giving x = ±1, ±2. Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cd56481fb339258e4d27eb0d"
+    },
+    "qid": "Q_PHY_0050",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">A photon of wavelength 600 nm has energy in eV approximately ___ (round to nearest integer)</span></h3>",
+      "solution": "<h3>E = hc/λ = 1240/600 ≈ 2.07 eV ≈ 2</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "70b2f4fb5cff45671d08d766"
+    },
+    "qid": "Q_MAT_0012",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "sequences_series",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The area under curve y = x from x = 0 to x = 4 is:</span></h3><h3>(A) 4<br />(B) 8<br />(C) 16<br />(D) 2</h3>",
+      "solution": "<h3>∫₀⁴ x dx = [x²/2]₀⁴ = 8</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "582b82b51c97d2306f247e00",
+    "qid": "Q_PHY_0092",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pseudo_forces",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: If frequency of a wave is doubled, its wavelength (speed constant):</span></h3><h3>(A) Doubles<br />(B) Halves<br />(C) Unchanged<br />(D) Quadruples</h3>",
+      "solution": "<h3>v = fλ. If f → 2f and v constant, λ → λ/2.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "158c4c1ca71f8b0a998f3749"
+    },
+    "qid": "Q_CHE_0013",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The bond angle in H₂O is approximately:</span></h3><h3>(A) 90°<br />(B) 104.5°<br />(C) 109.5°<br />(D) 120°</h3>",
+      "solution": "<h3>H₂O has 2 bond pairs and 2 lone pairs. Bond angle ≈ 104.5°.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3b162e0f46af9a43461ec309"
+    },
+    "qid": "Q_MAT_0021",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "circles",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If f(x) = x², then f(f(2)) is:</span></h3><h3>(A) 4<br />(B) 8<br />(C) 16<br />(D) 256</h3>",
+      "solution": "<h3>f(2) = 4, f(f(2)) = f(4) = 16</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a2350266d36d240ea1221582"
+    },
+    "qid": "Q_CHE_0034",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of lone pairs on the central atom in H₂O is ___</span></h3>",
+      "solution": "<h3>Oxygen in H₂O has 2 lone pairs.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "511210d472406eb1ff00d008"
+    },
+    "qid": "Q_PHY_0076",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, The work done by centripetal force on a body moving in a circle is:</span></h3><h3>(A) Positive<br />(B) Negative<br />(C) Zero<br />(D) Depends on speed</h3>",
+      "solution": "<h3>Centripetal force is perpendicular to velocity, so W = 0.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2b73a41ba5ef542e196161a9"
+    },
+    "qid": "Q_PHY_0053",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 1,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">A capacitor of 4μF is charged to 100V. Energy stored in mJ is ___</span></h3>",
+      "solution": "<h3>E = ½CV² = ½×4×10⁻⁶×10000 = 0.02 J = 20 mJ</h3>",
+      "answer": "20"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e02c8b309c7c3af256e0179a"
+    },
+    "qid": "Q_MAT_0009",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "straight_lines",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If f(x) = eˣ, then f'(x) is:</span></h3><h3>(A) eˣ<br />(B) xeˣ⁻¹<br />(C) 1/eˣ<br />(D) ln(x)</h3>",
+      "solution": "<h3>d/dx(eˣ) = eˣ</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4bc794e2cb0754e554fb17f7"
+    },
+    "qid": "Q_CHE_0039",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following are sp² hybridized?</span></h3><h3>(A) BF₃<br />(B) CH₄<br />(C) C₂H₄<br />(D) C₂H₂</h3>",
+      "solution": "<h3>BF₃ (3 bp, 0 lp) and C₂H₄ (double bond carbons) are sp² hybridized.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bd49440204fd424ded5edecb"
+    },
+    "qid": "Q_MAT_0028",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "complex_numbers",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The value of 5P2 is ___</span></h3>",
+      "solution": "<h3>5P2 = 5!/(5-2)! = 5×4 = 20</h3>",
+      "answer": "20"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "71ce761497aa7947d9815df1"
+    },
+    "qid": "Q_PHY_0072",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: The acceleration due to gravity at height h (h << R) above Earth's surface is approximately:</span></h3><h3>(A) g(1-2h/R)<br />(B) g(1+2h/R)<br />(C) g(1-h/R)<br />(D) g(R/h)</h3>",
+      "solution": "<h3>g' ≈ g(1 - 2h/R) for h << R.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "75d3bed355ca5ebaabdda76c"
+    },
+    "qid": "Q_MAT_0003",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "sequences_series",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The sum of roots of x² - 5x + 6 = 0 is:</span></h3><h3>(A) 5<br />(B) 6<br />(C) -5<br />(D) -6</h3>",
+      "solution": "<h3>By Vieta's: sum of roots = -(-5)/1 = 5</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "ad303877ebce4b0f39d234b9",
+    "qid": "Q_PHY_0084",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where The critical angle for total internal reflection depends on:</span></h3><h3>(A) Angle of incidence<br />(B) Refractive index<br />(C) Wavelength only<br />(D) Intensity</h3>",
+      "solution": "<h3>sin(c) = 1/μ. Critical angle depends on refractive index.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "e01fcd3fe22a4248ac9ed336",
+    "qid": "Q_PHY_0039",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 1,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The value of the expression 3² + 4² is ___</span></h3>",
+      "solution": "<h3>Answer: 25</h3>",
+      "answer": "25"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eb2c6d6f8a9a4fa113e035ee"
+    },
+    "qid": "Q_PHY_0091",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 5,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A body of mass m at height h has potential energy:</span></h3><h3>(A) mgh<br />(B) mgh²<br />(C) mg/h<br />(D) m²gh</h3>",
+      "solution": "<h3>PE = mgh near Earth's surface.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ae7dc1cac13ee17c1c169ec9"
+    },
+    "qid": "Q_MAT_0013",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "binomial_distribution",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The determinant of [[1,2],[3,4]] is:</span></h3><h3>(A) -2<br />(B) 2<br />(C) 10<br />(D) -10</h3>",
+      "solution": "<h3>det = 1×4 - 2×3 = 4 - 6 = -2</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "17490a39ef0a6668f40c1851",
+    "qid": "Q_MAT_0008",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "limits",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of terms in the expansion of (a+b)⁸ is:</span></h3><h3>(A) 8<br />(B) 9<br />(C) 7<br />(D) 16</h3>",
+      "solution": "<h3>(a+b)^n has n+1 terms. So 8+1 = 9.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a880627df7ffe0297c79bfbd"
+    },
+    "qid": "Q_PHY_0022",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "carnot_cycle",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The escape velocity from Earth is approximately:</span></h3><h3>(A) 7.9 km/s<br />(B) 11.2 km/s<br />(C) 3.2 km/s<br />(D) 15 km/s</h3>",
+      "solution": "<h3>Escape velocity = √(2gR) ≈ 11.2 km/s</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "97706ca828bca0385813dbad",
+    "qid": "Q_PHY_0013",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "convection",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The oxidation state of S in SO₃ is ___</span></h3>",
+      "solution": "<h3>Answer: 6</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4f309ffea518f32cf2144927"
+    },
+    "qid": "Q_PHY_0024",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">If 2x + 3 = 11, then x = ___</span></h3>",
+      "solution": "<h3>Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7cee9d9136682575250def91"
+    },
+    "qid": "Q_PHY_0025",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A charge moves perpendicular to a magnetic field. The path is:</span></h3><h3>(A) Straight line<br />(B) Parabola<br />(C) Circle<br />(D) Ellipse</h3>",
+      "solution": "<h3>Force is always perpendicular to velocity — circular motion.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "03cd10296eab17eafbe3370a"
+    },
+    "qid": "Q_PHY_0100",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "entropy",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where A particle is projected at 30° with velocity 20 m/s. Find the range. (g = 10 m/s²)</span></h3><h3>(A) 20√3 m<br />(B) 40√3 m<br />(C) 20 m<br />(D) 40 m</h3>",
+      "solution": "<h3>Range = u²sin2θ/g = 400×sin60°/10 = 40√3/10 = 20√3 m</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0e32684b27b95e9093483348"
+    },
+    "qid": "Q_PHY_0010",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of faces of a cube is ___</span></h3>",
+      "solution": "<h3>Answer: 6</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d884580ae414a19fb2a7525d"
+    },
+    "qid": "Q_CHE_0032",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "chemical_equilibrium",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which is a Bronsted acid?</span></h3><h3>(A) NaCl<br />(B) HCl<br />(C) NaOH<br />(D) H₂O only as base</h3>",
+      "solution": "<h3>HCl donates proton — Bronsted acid.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e139096a6698ae384583036b"
+    },
+    "qid": "Q_MAT_0022",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "integration",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The period of sin(2x) is:</span></h3><h3>(A) π<br />(B) 2π<br />(C) π/2<br />(D) 4π</h3>",
+      "solution": "<h3>Period = 2π/2 = π</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cf84d09eca13bd8a8838ce76"
+    },
+    "qid": "Q_MAT_0032",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "complex_numbers",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Determine: The derivative of x³ + 2x is:</span></h3><h3>(A) 3x² + 2<br />(B) x² + 2<br />(C) 3x² + 2x<br />(D) 3x + 2</h3>",
+      "solution": "<h3>d/dx(x³ + 2x) = 3x² + 2</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bf3eea29130a35755ade7c55"
+    },
+    "qid": "Q_PHY_0085",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pulleys",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The atomic number of Carbon is ___</span></h3>",
+      "solution": "<h3>Answer: 6</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": "4a37935b4cd4cd5f55f945ae",
+    "qid": "Q_PHY_0087",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, Two identical springs of spring constant k are connected in series. Effective k is:</span></h3><h3>(A) 2k<br />(B) k<br />(C) k/2<br />(D) k/4</h3>",
+      "solution": "<h3>In series: 1/k_eff = 1/k + 1/k = 2/k. k_eff = k/2</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "8b4afeeb9f35284682200c61",
+    "qid": "Q_CHE_0038",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The mass number of an element with 6 protons and 6 neutrons is ___</span></h3>",
+      "solution": "<h3>Mass number = protons + neutrons = 6 + 6 = 12</h3>",
+      "answer": "12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "648a22cca8e0d3d443339bd8"
+    },
+    "qid": "Q_CHE_0012",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following is an electrophile?</span></h3><h3>(A) NH₃<br />(B) AlCl₃<br />(C) OH⁻<br />(D) CN⁻</h3>",
+      "solution": "<h3>AlCl₃ is electron deficient — it is an electrophile.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9a3e247cb2c083eb8cb37f0a"
+    },
+    "qid": "Q_PHY_0035",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A body of mass m at height h has potential energy:</span></h3><h3>(A) mgh<br />(B) mgh²<br />(C) mg/h<br />(D) m²gh</h3>",
+      "solution": "<h3>PE = mgh near Earth's surface.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "81b7206f2e1bdb1812926337"
+    },
+    "qid": "Q_MAT_0002",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "binomial_distribution",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">∫₀¹ 2x dx equals:</span></h3><h3>(A) 0<br />(B) 1<br />(C) 2<br />(D) 4</h3>",
+      "solution": "<h3>∫₀¹ 2x dx = [x²]₀¹ = 1</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f78db11fb3f248e227f291a0"
+    },
+    "qid": "Q_MAT_0029",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "conditional_probability",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The sum of first 10 natural numbers is ___</span></h3>",
+      "solution": "<h3>n(n+1)/2 = 10×11/2 = 55</h3>",
+      "answer": "55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a4e2fe981b29ee11b922ce1e"
+    },
+    "qid": "Q_PHY_0046",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "torque",
+    "difficulty": 1,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">A body of mass 2 kg has KE of 25 J. Its speed in m/s is ___</span></h3>",
+      "solution": "<h3>KE = ½mv². 25 = ½×2×v². v = 5 m/s</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": "cf0b9cd7f78df0cac5e40c02",
+    "qid": "Q_PHY_0018",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The velocity of sound in air at NTP is approximately:</span></h3><h3>(A) 332 m/s<br />(B) 1500 m/s<br />(C) 5000 m/s<br />(D) 100 m/s</h3>",
+      "solution": "<h3>Speed of sound in air at NTP ≈ 332 m/s.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "dcf0cd5b6588e4179fdf128c",
+    "qid": "Q_CHE_0003",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "alcohols_ethers",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following is a Lewis acid?</span></h3><h3>(A) NH₃<br />(B) BF₃<br />(C) H₂O<br />(D) NaOH</h3>",
+      "solution": "<h3>BF₃ is electron deficient and accepts electron pairs — Lewis acid.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "99ed5ebe1bd812cb504e1427"
+    },
+    "qid": "Q_PHY_0060",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pseudo_forces",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: Two blocks of mass 2 kg and 3 kg are connected by a string on a frictionless surface. A force of 25 N acts on the 3 kg block. Tension in the string is:</span></h3><h3>(A) 10 N<br />(B) 15 N<br />(C) 5 N<br />(D) 20 N</h3>",
+      "solution": "<h3>a = 25/5 = 5 m/s². T = 2×5 = 10 N</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "99b364f73bb387d080589ab0",
+    "qid": "Q_PHY_0041",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">An object is placed at the center of curvature of a concave mirror. Image is at:</span></h3><h3>(A) Focus<br />(B) Centre of curvature<br />(C) Infinity<br />(D) Between F and C</h3>",
+      "solution": "<h3>Object at C gives image at C, same size, real and inverted.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "518ca6eaac8d82f01b721076"
+    },
+    "qid": "Q_PHY_0019",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pulleys",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A simple pendulum has time period T. If its length is quadrupled, new time period is:</span></h3><h3>(A) T<br />(B) 2T<br />(C) 4T<br />(D) T/2</h3>",
+      "solution": "<h3>T = 2π√(l/g). If l → 4l, T → 2T.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "310275dff6c15c0c8e9df469"
+    },
+    "qid": "Q_PHY_0008",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "1d_kinematics",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The electric field at a distance r from an infinite line charge with linear charge density λ is:</span></h3><h3>(A) λ/(2πε₀r)<br />(B) λ/(4πε₀r²)<br />(C) λ/(2πε₀r²)<br />(D) λ/(4πε₀r)</h3>",
+      "solution": "<h3>By Gauss's law, E = λ/(2πε₀r).</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "81432bd71cdf7f92c143e556"
+    },
+    "qid": "Q_CHE_0011",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The molarity of a solution containing 4 g NaOH in 500 mL is:</span></h3><h3>(A) 0.1 M<br />(B) 0.2 M<br />(C) 0.5 M<br />(D) 1.0 M</h3>",
+      "solution": "<h3>Moles of NaOH = 4/40 = 0.1. M = 0.1/0.5 = 0.2 M</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "df3dbe4d58fed8a728e7eca0"
+    },
+    "qid": "Q_PHY_0021",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "first_law",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A satellite orbits Earth at height h. If h = R, the orbital velocity is:</span></h3><h3>(A) √(gR/2)<br />(B) √(gR)<br />(C) √(2gR)<br />(D) √(gR/4)</h3>",
+      "solution": "<h3>v = √(GM/(R+h)) = √(gR²/2R) = √(gR/2)</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aa98c8ebed550478265c332f"
+    },
+    "qid": "Q_CHE_0053",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The bond angle in H₂O is approximately:</span></h3><h3>(A) 90°<br />(B) 104.5°<br />(C) 109.5°<br />(D) 120°</h3>",
+      "solution": "<h3>H₂O has 2 bond pairs and 2 lone pairs. Bond angle ≈ 104.5°.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "575ec87a171ac826a6fce484"
+    },
+    "qid": "Q_PHY_0003",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "first_law",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of edges in a cube is ___</span></h3>",
+      "solution": "<h3>Answer: 12</h3>",
+      "answer": "12"
+    }
+  },
+  {
+    "_id": "315f4d38663c6e6a3d13ee4f",
+    "qid": "Q_CHE_0028",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The conjugate base of H₂O is:</span></h3><h3>(A) H₃O⁺<br />(B) OH⁻<br />(C) O²⁻<br />(D) H₂</h3>",
+      "solution": "<h3>H₂O donates H⁺ to form OH⁻ (conjugate base).</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bda4782790966c917fc37f20"
+    },
+    "qid": "Q_PHY_0094",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "1d_kinematics",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Number of spectral lines from n=4 to ground state is:</span></h3><h3>(A) 3<br />(B) 4<br />(C) 6<br />(D) 10</h3>",
+      "solution": "<h3>N = n(n-1)/2 = 4×3/2 = 6</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "405dff69a912715d51cf5910"
+    },
+    "qid": "Q_PHY_0066",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": null,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: A ball is thrown vertically upward with 40 m/s. Time to reach maximum height is (g = 10 m/s²):</span></h3><h3>(A) 2 s<br />(B) 4 s<br />(C) 8 s<br />(D) 6 s</h3>",
+      "solution": "<h3>At max height v = 0. t = u/g = 40/10 = 4 s</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4332f01fbaf8f58c741df1bc"
+    },
+    "qid": "Q_CHE_0049",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Identify: The number of σ bonds in ethylene (C₂H₄) is:</span></h3><h3>(A) 3<br />(B) 4<br />(C) 5<br />(D) 6</h3>",
+      "solution": "<h3>C₂H₄: 1 C-C σ bond + 4 C-H σ bonds = 5 σ bonds.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "292836fab473926afea94bad",
+    "qid": "Q_CHE_0037",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The coordination number of Na⁺ in NaCl crystal is ___</span></h3>",
+      "solution": "<h3>Each Na⁺ is surrounded by 6 Cl⁻ ions.</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": "1f6fa70023f422387e98e135",
+    "qid": "Q_CHE_0023",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which gas is released when Na reacts with water?</span></h3><h3>(A) O₂<br />(B) H₂<br />(C) CO₂<br />(D) N₂</h3>",
+      "solution": "<h3>2Na + 2H₂O → 2NaOH + H₂↑</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f9f02ce76b119ff903d48bcb"
+    },
+    "qid": "Q_PHY_0061",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "rolling",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: An ideal gas undergoes isothermal expansion. Its internal energy:</span></h3><h3>(A) Increases<br />(B) Decreases<br />(C) Remains constant<br />(D) First increases then decreases</h3>",
+      "solution": "<h3>For an ideal gas, internal energy depends only on temperature. In isothermal process, T is constant so ΔU = 0.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fdfdef5207918795ef338b1e"
+    },
+    "qid": "Q_PHY_0088",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pulleys",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The focal length of a plane mirror is:</span></h3><h3>(A) 0<br />(B) ∞<br />(C) 1 m<br />(D) -1 m</h3>",
+      "solution": "<h3>A plane mirror has R = ∞, so f = R/2 = ∞.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "5c54898f425d8d9f2b87f6e3",
+    "qid": "Q_PHY_0081",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "gauss_law",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: A charge moves perpendicular to a magnetic field. The path is:</span></h3><h3>(A) Straight line<br />(B) Parabola<br />(C) Circle<br />(D) Ellipse</h3>",
+      "solution": "<h3>Force is always perpendicular to velocity — circular motion.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": "97b7684319e1b429ad564b85",
+    "qid": "Q_PHY_0034",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "1d_kinematics",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Induced EMF in a coil is proportional to:</span></h3><h3>(A) Magnetic flux<br />(B) Rate of change of flux<br />(C) Current<br />(D) Resistance</h3>",
+      "solution": "<h3>By Faraday's law, EMF = -dΦ/dt. Proportional to rate of change of flux.</h3>",
+      "answer": "A,B"
+    }
+  },
+  {
+    "_id": "a8b4fff5796030e36dd1ab60",
+    "qid": "Q_MAT_0018",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "parabola",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The eccentricity of a circle is:</span></h3><h3>(A) 0<br />(B) 1<br />(C) 1/2<br />(D) 2</h3>",
+      "solution": "<h3>For a circle, e = 0.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b43c3a29ecd775fc2a6dda75"
+    },
+    "qid": "Q_MAT_0025",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "matrices",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The value of ∫₀² (3x²) dx is ___</span></h3>",
+      "solution": "<h3>∫₀² 3x² dx = [x³]₀² = 8</h3>",
+      "answer": "8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2ce8343cbab46c1114afe44a"
+    },
+    "qid": "Q_PHY_0062",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "torque",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where The moment of inertia of a solid sphere about a diameter is:</span></h3><h3>(A) 2MR²/5<br />(B) MR²/2<br />(C) 2MR²/3<br />(D) MR²</h3>",
+      "solution": "<h3>Standard result: I = 2MR²/5 for solid sphere about diameter.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ab2480ac5c539a18d2f7be9"
+    },
+    "qid": "Q_MAT_0020",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "straight_lines",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The rank of a 3×3 identity matrix is:</span></h3><h3>(A) 0<br />(B) 1<br />(C) 2<br />(D) 3</h3>",
+      "solution": "<h3>Identity matrix has all rows linearly independent. Rank = 3.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "af41e3a2517ee5bb9cda1a2a",
+    "qid": "Q_PHY_0047",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "angular_momentum",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The ratio of specific heats (γ) for a monoatomic ideal gas is ___ (write as integer part of 5/3)</span></h3>",
+      "solution": "<h3>γ = Cp/Cv = 5/3. Integer part = 1. But conventionally we write 1.</h3>",
+      "answer": "1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9db20c491b10b3907dcacccd"
+    },
+    "qid": "Q_MAT_0027",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "conics",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">If the probability of an event is 1/4, the odds against it are ___ : 1 (enter the first number)</span></h3>",
+      "solution": "<h3>Odds against = (1-1/4)/(1/4) = (3/4)/(1/4) = 3</h3>",
+      "answer": "3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c29fe01a1a1c36e47214f0f1"
+    },
+    "qid": "Q_MAT_0037",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "complex_numbers",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Evaluate: The value of lim(x→0) sin(x)/x is:</span></h3><h3>(A) 0<br />(B) 1<br />(C) ∞<br />(D) -1</h3>",
+      "solution": "<h3>Standard limit: lim(x→0) sinx/x = 1</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a11f5125227c3712da86a78c"
+    },
+    "qid": "Q_PHY_0009",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A Carnot engine operates between 300 K and 600 K. Its efficiency is:</span></h3><h3>(A) 100%<br />(B) 50%<br />(C) 25%<br />(D) 75%</h3>",
+      "solution": "<h3>η = 1 - T_cold/T_hot = 1 - 300/600 = 0.5 = 50%</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "146afca5eab8f67897996faf"
+    },
+    "qid": "Q_PHY_0064",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "thermal_expansion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: The electric field at a distance r from an infinite line charge with linear charge density λ is:</span></h3><h3>(A) λ/(2πε₀r)<br />(B) λ/(4πε₀r²)<br />(C) λ/(2πε₀r²)<br />(D) λ/(4πε₀r)</h3>",
+      "solution": "<h3>By Gauss's law, E = λ/(2πε₀r).</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "adb08792ca25fab6856f6778"
+    },
+    "qid": "Q_CHE_0048",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "alcohols_ethers",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For the compound, In an electrochemical cell, oxidation occurs at the:</span></h3><h3>(A) Cathode<br />(B) Anode<br />(C) Both<br />(D) Neither</h3>",
+      "solution": "<h3>Oxidation occurs at the anode (AN OX — anode oxidation).</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "7e536ca15c024fd2287b21cc",
+    "qid": "Q_CHE_0045",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Identify: The order of reaction A → B is determined by:</span></h3><h3>(A) Stoichiometry<br />(B) Molecularity<br />(C) Experiment<br />(D) Temperature</h3>",
+      "solution": "<h3>Order of reaction is always determined experimentally.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fc7403d75e173e4eaede5fe8"
+    },
+    "qid": "Q_PHY_0016",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": null,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The acceleration due to gravity at height h (h << R) above Earth's surface is approximately:</span></h3><h3>(A) g(1-2h/R)<br />(B) g(1+2h/R)<br />(C) g(1-h/R)<br />(D) g(R/h)</h3>",
+      "solution": "<h3>g' ≈ g(1 - 2h/R) for h << R.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "ea3e59c23caf1264044e9ce6",
+    "qid": "Q_MAT_0026",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "conditional_probability",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of real roots of x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = -4 has no real roots. Answer: 0</h3>",
+      "answer": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "df5543cacd78ca9e44d9a666"
+    },
+    "qid": "Q_CHE_0029",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Buffer solution resists change in:</span></h3><h3>(A) Temperature<br />(B) Volume<br />(C) pH<br />(D) Pressure</h3>",
+      "solution": "<h3>Buffer solutions resist changes in pH.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6e92df49784dc2efcd1b237b"
+    },
+    "qid": "Q_PHY_0083",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where A transformer has 100 primary and 500 secondary turns. If input voltage is 220V, output is:</span></h3><h3>(A) 44 V<br />(B) 1100 V<br />(C) 220 V<br />(D) 550 V</h3>",
+      "solution": "<h3>Vs/Vp = Ns/Np. Vs = 220×500/100 = 1100 V</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4eb587f51a244fdc7e56b183"
+    },
+    "qid": "Q_MAT_0031",
+    "questionType": "mcq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "differentiation",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following are irrational numbers?</span></h3><h3>(A) √2<br />(B) 22/7<br />(C) π<br />(D) 0.333...</h3>",
+      "solution": "<h3>√2 and π are irrational. 22/7 and 0.333... are rational.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8896471ca40f98dcc16a7fb9"
+    },
+    "qid": "Q_CHE_0017",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "kinetics",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following is the strongest acid?</span></h3><h3>(A) CH₃COOH<br />(B) HCl<br />(C) H₂CO₃<br />(D) C₆H₅OH</h3>",
+      "solution": "<h3>HCl is a strong acid; the rest are weak acids.</h3>",
+      "answer": "A,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "af9f0ba3d90f871f5c471360"
+    },
+    "qid": "Q_PHY_0063",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "convection",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where A convex lens of focal length 20 cm forms an image at 60 cm. Object distance is:</span></h3><h3>(A) 30 cm<br />(B) 15 cm<br />(C) 40 cm<br />(D) 20 cm</h3>",
+      "solution": "<h3>1/v - 1/u = 1/f. 1/60 - 1/u = 1/20. 1/u = 1/60 - 1/20 = -2/60. u = -30 cm.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "053984e07240f6ad9fbe1a24"
+    },
+    "qid": "Q_CHE_0057",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Identify: Which of the following is the strongest acid?</span></h3><h3>(A) CH₃COOH<br />(B) HCl<br />(C) H₂CO₃<br />(D) C₆H₅OH</h3>",
+      "solution": "<h3>HCl is a strong acid; the rest are weak acids.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c62af5f391c21abdd370c191"
+    },
+    "qid": "Q_MAT_0005",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "straight_lines",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If P(A) = 0.3 and P(B) = 0.4, and A,B are independent, then P(A∩B) is:</span></h3><h3>(A) 0.7<br />(B) 0.12<br />(C) 0.1<br />(D) 0.70</h3>",
+      "solution": "<h3>P(A∩B) = P(A)×P(B) = 0.3×0.4 = 0.12</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "d1446ade4a52fa5a10e8655f",
+    "qid": "Q_MAT_0014",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "straight_lines",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If z = 3 + 4i, then |z| is:</span></h3><h3>(A) 7<br />(B) 5<br />(C) 1<br />(D) 25</h3>",
+      "solution": "<h3>|z| = √(9+16) = √25 = 5</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e5901a19bbd47d5552c7f47e"
+    },
+    "qid": "Q_PHY_0032",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "reflection",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The focal length of a plane mirror is:</span></h3><h3>(A) 0<br />(B) ∞<br />(C) 1 m<br />(D) -1 m</h3>",
+      "solution": "<h3>A plane mirror has R = ∞, so f = R/2 = ∞.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad4afb65c07746053b1c8113"
+    },
+    "qid": "Q_CHE_0021",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which quantum number determines the shape of an orbital?</span></h3><h3>(A) n<br />(B) l<br />(C) m<br />(D) s</h3>",
+      "solution": "<h3>Azimuthal quantum number (l) determines orbital shape.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "5334768b8c2bce779212cccf",
+    "qid": "Q_PHY_0077",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "1d_kinematics",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of zeros in one million is ___</span></h3>",
+      "solution": "<h3>Answer: 6</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": "c7e8a908b713e95c939b774f",
+    "qid": "Q_PHY_0068",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A current-carrying circular loop behaves as a:</span></h3><h3>(A) Magnetic monopole<br />(B) Magnetic dipole<br />(C) Electric dipole<br />(D) Electric monopole</h3>",
+      "solution": "<h3>A current loop has a north and south pole — it is a magnetic dipole.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cd3ada8b4f2222d3b41a3dbd"
+    },
+    "qid": "Q_PHY_0040",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">The angular frequency of a spring-mass system (k=100 N/m, m=1 kg) is:</span></h3><h3>(A) 10 rad/s<br />(B) 100 rad/s<br />(C) 1 rad/s<br />(D) 50 rad/s</h3>",
+      "solution": "<h3>ω = √(k/m) = √(100/1) = 10 rad/s</h3>",
+      "answer": "A,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "77432d1026706d7e805da846"
+    },
+    "qid": "Q_PHY_0001",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A particle is projected at 30° with velocity 20 m/s. Find the range. (g = 10 m/s²)</span></h3><h3>(A) 20√3 m<br />(B) 40√3 m<br />(C) 20 m<br />(D) 40 m</h3>",
+      "solution": "<h3>Range = u²sin2θ/g = 400×sin60°/10 = 40√3/10 = 20√3 m</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4f7fd633dbdde131ca3766e4"
+    },
+    "qid": "Q_PHY_0007",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "radiation",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A convex lens of focal length 20 cm forms an image at 60 cm. Object distance is:</span></h3><h3>(A) 30 cm<br />(B) 15 cm<br />(C) 40 cm<br />(D) 20 cm</h3>",
+      "solution": "<h3>1/v - 1/u = 1/f. 1/60 - 1/u = 1/20. 1/u = 1/60 - 1/20 = -2/60. u = -30 cm.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "24a2eeb454d134955a7b9286"
+    },
+    "qid": "Q_PHY_0058",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: A body of mass 5 kg is acted upon by a net force of 10 N. The acceleration is:</span></h3><h3>(A) 1 m/s²<br />(B) 2 m/s²<br />(C) 5 m/s²<br />(D) 50 m/s²</h3>",
+      "solution": "<h3>F = ma, so a = F/m = 10/5 = 2 m/s²</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "a006c3ab85878fab5fd6dbbc",
+    "qid": "Q_CHE_0050",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">Number of vertices in a tetrahedron is ___</span></h3>",
+      "solution": "<h3>Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "03cd10296eab17eafbe3370a"
+    },
+    "qid": "Q_CHE_0027",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "amines",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Avogadro's number is approximately:</span></h3><h3>(A) 6.022 × 10²³<br />(B) 6.022 × 10²²<br />(C) 3.14 × 10²³<br />(D) 1.6 × 10⁻¹⁹</h3>",
+      "solution": "<h3>Avogadro's number ≈ 6.022 × 10²³</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cfe11a3885ccb28c7cbbff04"
+    },
+    "qid": "Q_CHE_0040",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following solutions are acidic?</span></h3><h3>(A) NaCl<br />(B) NH₄Cl<br />(C) CH₃COONa<br />(D) FeCl₃</h3>",
+      "solution": "<h3>NH₄Cl (weak base + strong acid salt) and FeCl₃ (Fe³⁺ hydrolysis) are acidic.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c0190490976a08431eb448b7"
+    },
+    "qid": "Q_MAT_0004",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "binomial_distribution",
+    "difficulty": 1,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The distance between points (1,2) and (4,6) is:</span></h3><h3>(A) 5<br />(B) 7<br />(C) 25<br />(D) √7</h3>",
+      "solution": "<h3>d = √((4-1)² + (6-2)²) = √(9+16) = √25 = 5</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f812d810a485ed03241b4d"
+    },
+    "qid": "Q_PHY_0011",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pseudo_forces",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The potential energy of a spring stretched by x is:</span></h3><h3>(A) kx<br />(B) kx²<br />(C) ½kx²<br />(D) 2kx²</h3>",
+      "solution": "<h3>PE = ½kx² for a spring.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4105ff52fa7a817cc72eee2f"
+    },
+    "qid": "Q_CHE_0026",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 2,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">The normality of 1M H₂SO₄ is:</span></h3><h3>(A) 1 N<br />(B) 2 N<br />(C) 0.5 N<br />(D) 4 N</h3>",
+      "solution": "<h3>N = M × basicity = 1 × 2 = 2 N</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "926eff57d4585ae27cc4306d"
+    },
+    "qid": "Q_CHE_0042",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "chemical_equilibrium",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Identify: The pH of 0.01 M HCl solution is:</span></h3><h3>(A) 1<br />(B) 2<br />(C) 3<br />(D) 4</h3>",
+      "solution": "<h3>pH = -log[H⁺] = -log(0.01) = 2</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "fa6bad17408d946a7c7fa8ff",
+    "qid": "Q_PHY_0075",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where A simple pendulum has time period T. If its length is quadrupled, new time period is:</span></h3><h3>(A) T<br />(B) 2T<br />(C) 4T<br />(D) T/2</h3>",
+      "solution": "<h3>T = 2π√(l/g). If l → 4l, T → 2T.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7a7da82b31571c2e99a2e0b6"
+    },
+    "qid": "Q_PHY_0098",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The drift velocity of electrons in a conductor is proportional to:</span></h3><h3>(A) Electric field<br />(B) Square of electric field<br />(C) Cube of current<br />(D) Temperature</h3>",
+      "solution": "<h3>vd = eEτ/m. Drift velocity is proportional to E.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a24b9c429ca42db0b956af67"
+    },
+    "qid": "Q_PHY_0048",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "gauss_law",
+    "difficulty": 4,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">If two resistors of 6Ω and 3Ω are connected in parallel, the equivalent resistance in Ω is ___</span></h3>",
+      "solution": "<h3>1/R = 1/6 + 1/3 = 1/2. R = 2Ω</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de23f0749d0b7d52b20cf1cb"
+    },
+    "qid": "Q_PHY_0052",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "relative_motion",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of nodes in 3p orbital is ___</span></h3>",
+      "solution": "<h3>Total nodes = n-1 = 2. Angular nodes = l = 1. Radial nodes = 1. Total = 2.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "97818c0874ac42c7d74d9ae4"
+    },
+    "qid": "Q_MAT_0010",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "conics",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">How many electrons are in Na⁺ (Z=11)? ___</span></h3>",
+      "solution": "<h3>Answer: 10</h3>",
+      "answer": "10"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e06961751b70528cbcc60229"
+    },
+    "qid": "Q_CHE_0046",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "amines",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Predict: Which of the following has the highest ionization energy?</span></h3><h3>(A) Na<br />(B) Mg<br />(C) Al<br />(D) Ne</h3>",
+      "solution": "<h3>Noble gases have the highest ionization energy. Ne > Mg > Na > Al (approximately).</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "d1446ade4a52fa5a10e8655f",
+    "qid": "Q_CHE_0019",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "kinetics",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The VSEPR shape of NH₃ is:</span></h3><h3>(A) Tetrahedral<br />(B) Trigonal planar<br />(C) Trigonal pyramidal<br />(D) Linear</h3>",
+      "solution": "<h3>NH₃ has 3 bp + 1 lp = trigonal pyramidal.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "132f40ddb1d7fcb3d48f729d"
+    },
+    "qid": "Q_CHE_0043",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "amines",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Identify: Which of the following is a Lewis acid?</span></h3><h3>(A) NH₃<br />(B) BF₃<br />(C) H₂O<br />(D) NaOH</h3>",
+      "solution": "<h3>BF₃ is electron deficient and accepts electron pairs — Lewis acid.</h3>",
+      "answer": "B,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c9a7a5236bb4734865425fee"
+    },
+    "qid": "Q_PHY_0045",
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 2,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of images formed by two plane mirrors at 60° is ___</span></h3>",
+      "solution": "<h3>n = 360/60 - 1 = 5</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": "e831228e0f401c84ac0ffdc2",
+    "qid": "Q_MAT_0035",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "quadratic_equations",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Calculate: The distance between points (1,2) and (4,6) is:</span></h3><h3>(A) 5<br />(B) 7<br />(C) 25<br />(D) √7</h3>",
+      "solution": "<h3>d = √((4-1)² + (6-2)²) = √(9+16) = √25 = 5</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c80621db212f19d54dbcecc2"
+    },
+    "qid": "Q_PHY_0070",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "first_law",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of real solutions of x⁴ - 5x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = 1 or x² = 4, giving x = ±1, ±2. Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7cb557ab0b46f95f121770f0"
+    },
+    "qid": "Q_CHE_0005",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "vsepr",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The order of reaction A → B is determined by:</span></h3><h3>(A) Stoichiometry<br />(B) Molecularity<br />(C) Experiment<br />(D) Temperature</h3>",
+      "solution": "<h3>Order of reaction is always determined experimentally.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b81e3c29b62179273c8eb5bb"
+    },
+    "qid": "Q_PHY_0002",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A body of mass 5 kg is acted upon by a net force of 10 N. The acceleration is:</span></h3><h3>(A) 1 m/s²<br />(B) 2 m/s²<br />(C) 5 m/s²<br />(D) 50 m/s²</h3>",
+      "solution": "<h3>F = ma, so a = F/m = 10/5 = 2 m/s²</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "728da23ddbb6ab095be4e176"
+    },
+    "qid": "Q_MAT_0007",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "sequences_series",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The equation of a circle with center (0,0) and radius 5 is:</span></h3><h3>(A) x² + y² = 5<br />(B) x² + y² = 25<br />(C) x + y = 5<br />(D) x² - y² = 25</h3>",
+      "solution": "<h3>x² + y² = r² = 25</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "d8282feb1f5b5833701071fb",
+    "qid": "Q_PHY_0097",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">An object is placed at the center of curvature of a concave mirror. Image is at:</span></h3><h3>(A) Focus<br />(B) Centre of curvature<br />(C) Infinity<br />(D) Between F and C</h3>",
+      "solution": "<h3>Object at C gives image at C, same size, real and inverted.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bb8b0d3b659bafe2c9e45adc"
+    },
+    "qid": "Q_CHE_0052",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "kinetics",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following is an electrophile?</span></h3><h3>(A) NH₃<br />(B) AlCl₃<br />(C) OH⁻<br />(D) CN⁻</h3>",
+      "solution": "<h3>AlCl₃ is electron deficient — it is an electrophile.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "f78e2978aa2447c462ddaed1",
+    "qid": "Q_PHY_0017",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "interference",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">A block slides down a frictionless incline of angle 30°. Its acceleration is:</span></h3><h3>(A) g<br />(B) g/2<br />(C) g√3/2<br />(D) g/√2</h3>",
+      "solution": "<h3>a = g sin30° = g/2</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "dc0668235ba6e38facc3bbe5",
+    "qid": "Q_PHY_0086",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pulleys",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The SI unit of magnetic flux is:</span></h3><h3>(A) Tesla<br />(B) Weber<br />(C) Henry<br />(D) Gauss</h3>",
+      "solution": "<h3>Magnetic flux Φ is measured in Weber (Wb).</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dcecda0c30212b39929ecc0f"
+    },
+    "qid": "Q_CHE_0035",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 3,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The oxidation state of Mn in KMnO₄ is ___</span></h3>",
+      "solution": "<h3>K(+1) + Mn(x) + 4O(-2) = 0. 1 + x - 8 = 0. x = +7</h3>",
+      "answer": "7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c38f4609d384d33933f6686b"
+    },
+    "qid": "Q_CHE_0022",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The process of converting ore to oxide is called:</span></h3><h3>(A) Reduction<br />(B) Calcination<br />(C) Smelting<br />(D) Roasting</h3>",
+      "solution": "<h3>Calcination converts carbonate ore to oxide by heating.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a3176f812815a064c2957cac"
+    },
+    "qid": "Q_PHY_0078",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: The escape velocity from Earth is approximately:</span></h3><h3>(A) 7.9 km/s<br />(B) 11.2 km/s<br />(C) 3.2 km/s<br />(D) 15 km/s</h3>",
+      "solution": "<h3>Escape velocity = √(2gR) ≈ 11.2 km/s</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69b1a83bdceca5ffb82d2d59"
+    },
+    "qid": "Q_PHY_0054",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "first_law",
+    "difficulty": 3,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following are conservative forces?</span></h3><h3>(A) Gravitational force<br />(B) Friction<br />(C) Electrostatic force<br />(D) Air resistance</h3>",
+      "solution": "<h3>Gravitational and electrostatic forces are conservative. Friction and air resistance are non-conservative.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b3bb1c863e2601a7462667a4"
+    },
+    "qid": "Q_PHY_0037",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "radiation",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The time constant of an RC circuit with R = 1kΩ and C = 1μF is:</span></h3><h3>(A) 1 ms<br />(B) 1 s<br />(C) 1 μs<br />(D) 1 ns</h3>",
+      "solution": "<h3>τ = RC = 1000 × 10⁻⁶ = 10⁻³ s = 1 ms</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "299a03aac056aaff14f4eaed"
+    },
+    "qid": "Q_MAT_0019",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "coordinate_geometry",
+    "subtopic": "conics",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">log₁₀(1000) equals:</span></h3><h3>(A) 2<br />(B) 3<br />(C) 4<br />(D) 10</h3>",
+      "solution": "<h3>log₁₀(1000) = log₁₀(10³) = 3</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "842c9779e44501bafe8e45ed"
+    },
+    "qid": "Q_CHE_0054",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For the compound, The unit cell of NaCl crystal is:</span></h3><h3>(A) Simple cubic<br />(B) BCC<br />(C) FCC<br />(D) HCP</h3>",
+      "solution": "<h3>NaCl has an FCC unit cell.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7387dc644f05df4af981c351"
+    },
+    "qid": "Q_CHE_0051",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "molecular_orbital",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In a reaction, The molarity of a solution containing 4 g NaOH in 500 mL is:</span></h3><h3>(A) 0.1 M<br />(B) 0.2 M<br />(C) 0.5 M<br />(D) 1.0 M</h3>",
+      "solution": "<h3>Moles of NaOH = 4/40 = 0.1. M = 0.1/0.5 = 0.2 M</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9d34119f3374cebd4d3fd81b"
+    },
+    "qid": "Q_PHY_0036",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If frequency of a wave is doubled, its wavelength (speed constant):</span></h3><h3>(A) Doubles<br />(B) Halves<br />(C) Unchanged<br />(D) Quadruples</h3>",
+      "solution": "<h3>v = fλ. If f → 2f and v constant, λ → λ/2.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "6fede207861541b1419a213d",
+    "qid": "Q_MAT_0016",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "bayes_theorem",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of real solutions of x⁴ - 5x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = 1 or x² = 4, giving x = ±1, ±2. Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "22af0d5d513a66d899731cf4"
+    },
+    "qid": "Q_CHE_0009",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "electrochemistry",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of σ bonds in ethylene (C₂H₄) is:</span></h3><h3>(A) 3<br />(B) 4<br />(C) 5<br />(D) 6</h3>",
+      "solution": "<h3>C₂H₄: 1 C-C σ bond + 4 C-H σ bonds = 5 σ bonds.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "026cdea5b9a2145128edfed8"
+    },
+    "qid": "Q_PHY_0042",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "relative_motion",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The drift velocity of electrons in a conductor is proportional to:</span></h3><h3>(A) Electric field<br />(B) Square of electric field<br />(C) Cube of current<br />(D) Temperature</h3>",
+      "solution": "<h3>vd = eEτ/m. Drift velocity is proportional to E.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "266f6a90663f76c7a9ceb98b"
+    },
+    "qid": "Q_PHY_0074",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: The velocity of sound in air at NTP is approximately:</span></h3><h3>(A) 332 m/s<br />(B) 1500 m/s<br />(C) 5000 m/s<br />(D) 100 m/s</h3>",
+      "solution": "<h3>Speed of sound in air at NTP ≈ 332 m/s.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "5eb129abc2d29f438ad66132",
+    "qid": "Q_MAT_0017",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "matrices",
+    "difficulty": null,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">If A = {1,2,3} and B = {2,3,4}, then A∩B is:</span></h3><h3>(A) {1,2,3,4}<br />(B) {2,3}<br />(C) {1}<br />(D) {4}</h3>",
+      "solution": "<h3>A∩B = {2,3}</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "450c15a73f4a27ba52ae0867"
+    },
+    "qid": "Q_CHE_0007",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The shape of SF₆ molecule is:</span></h3><h3>(A) Tetrahedral<br />(B) Square planar<br />(C) Octahedral<br />(D) Trigonal bipyramidal</h3>",
+      "solution": "<h3>SF₆ has 6 bond pairs and 0 lone pairs — octahedral.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "26e6dfb1529c40566171e1b6",
+    "qid": "Q_CHE_0014",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The unit cell of NaCl crystal is:</span></h3><h3>(A) Simple cubic<br />(B) BCC<br />(C) FCC<br />(D) HCP</h3>",
+      "solution": "<h3>NaCl has an FCC unit cell.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bf3eea29130a35755ade7c55"
+    },
+    "qid": "Q_PHY_0056",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 2,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Which of the following quantities are vectors?</span></h3><h3>(A) Displacement<br />(B) Speed<br />(C) Torque<br />(D) Temperature</h3>",
+      "solution": "<h3>Displacement and torque are vectors. Speed and temperature are scalars.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "be898736a3566f893697b590",
+    "qid": "Q_PHY_0023",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "torque",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Heat required to raise temperature of 2 kg water by 5°C is (s = 4200 J/kg°C):</span></h3><h3>(A) 42000 J<br />(B) 21000 J<br />(C) 10500 J<br />(D) 84000 J</h3>",
+      "solution": "<h3>Q = ms∆T = 2×4200×5 = 42000 J</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c6adb34d88db8c6df5bf89bc"
+    },
+    "qid": "Q_CHE_0044",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The hybridization of carbon in CH₄ is:</span></h3><h3>(A) sp<br />(B) sp²<br />(C) sp³<br />(D) sp³d</h3>",
+      "solution": "<h3>CH₄ has 4 bond pairs, so sp³ hybridization.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "307bfe5fbb58290c1567768d"
+    },
+    "qid": "Q_CHE_0015",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "physical_chemistry",
+    "subtopic": "solutions",
+    "difficulty": null,
+    "integerQuestion": {
+      "question": "<h3><span style=\"color:#000000\">The number of diagonals in a hexagon is ___</span></h3>",
+      "solution": "<h3>Answer: 9</h3>",
+      "answer": "9"
+    }
+  },
+  {
+    "_id": "b13d72aca08ef7bcd5c29722",
+    "qid": "Q_PHY_0079",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Consider: Heat required to raise temperature of 2 kg water by 5°C is (s = 4200 J/kg°C):</span></h3><h3>(A) 42000 J<br />(B) 21000 J<br />(C) 10500 J<br />(D) 84000 J</h3>",
+      "solution": "<h3>Q = ms∆T = 2×4200×5 = 42000 J</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "4d184474a7cf48dce22c8bef",
+    "qid": "Q_PHY_0090",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where Induced EMF in a coil is proportional to:</span></h3><h3>(A) Magnetic flux<br />(B) Rate of change of flux<br />(C) Current<br />(D) Resistance</h3>",
+      "solution": "<h3>By Faraday's law, EMF = -dΦ/dt. Proportional to rate of change of flux.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "791e8b2e376bd54661b85a99"
+    },
+    "qid": "Q_PHY_0089",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "heat_transfer",
+    "subtopic": "conduction",
+    "difficulty": 1,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">For a system where The energy of a photon of frequency ν is:</span></h3><h3>(A) hν<br />(B) h/ν<br />(C) hν²<br />(D) h²ν</h3>",
+      "solution": "<h3>E = hν (Planck's relation).</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "add49c5f7794e1dd4c786a2e",
+    "qid": "Q_PHY_0073",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitance",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A block slides down a frictionless incline of angle 30°. Its acceleration is:</span></h3><h3>(A) g<br />(B) g/2<br />(C) g√3/2<br />(D) g/√2</h3>",
+      "solution": "<h3>a = g sin30° = g/2</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cb74f21345d2cce8038a39d5"
+    },
+    "qid": "Q_PHY_0004",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "rolling",
+    "difficulty": 4,
+    "mcq": {
+      "question": "<h3><span style=\"color:#000000\">Two blocks of mass 2 kg and 3 kg are connected by a string on a frictionless surface. A force of 25 N acts on the 3 kg block. Tension in the string is:</span></h3><h3>(A) 10 N<br />(B) 15 N<br />(C) 5 N<br />(D) 20 N</h3>",
+      "solution": "<h3>a = 25/5 = 5 m/s². T = 2×5 = 10 N</h3>",
+      "answer": "B,C,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9d7172d3e19530405fb85b48"
+    },
+    "qid": "Q_PHY_0096",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, The angular frequency of a spring-mass system (k=100 N/m, m=1 kg) is:</span></h3><h3>(A) 10 rad/s<br />(B) 100 rad/s<br />(C) 1 rad/s<br />(D) 50 rad/s</h3>",
+      "solution": "<h3>ω = √(k/m) = √(100/1) = 10 rad/s</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ebf6740d07b0a0c9367df148"
+    },
+    "qid": "Q_PHY_0099",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "second_law",
+    "difficulty": 5,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A body cools from 80°C to 60°C in 5 min. By Newton's law, it cools to ~48°C in next 5 min if surrounding is at 20°C. The average temperature used is:</span></h3><h3>(A) 70°C and 54°C<br />(B) 80°C and 60°C<br />(C) 60°C and 48°C<br />(D) 50°C and 40°C</h3>",
+      "solution": "<h3>Newton's law: dT/dt ∝ (T_avg - T_surr). First interval avg = 70, second = ~54.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "db5f20208611c9ddc2482926",
+    "qid": "Q_PHY_0095",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "pulleys",
+    "difficulty": 4,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, A concave mirror of focal length 10 cm. Object at 15 cm. Image is:</span></h3><h3>(A) Real, inverted at 30 cm<br />(B) Virtual at 30 cm<br />(C) Real at 6 cm<br />(D) Virtual at 6 cm</h3>",
+      "solution": "<h3>1/v + 1/u = 1/f. 1/v = 1/(-10) - 1/(-15) = -1/10 + 1/15 = -1/30. v = -30 cm. Real, inverted.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6306592f39cff82c5bcb5e18"
+    },
+    "qid": "Q_CHE_0010",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "ionic_bonding",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Hund's rule is related to:</span></h3><h3>(A) Shape of orbitals<br />(B) Filling of degenerate orbitals<br />(C) Electron spin<br />(D) Nuclear stability</h3>",
+      "solution": "<h3>Hund's rule states that degenerate orbitals are filled singly first with parallel spins.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2e3e9ef7748bc5aaef02f3bf"
+    },
+    "qid": "Q_MAT_0024",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "bayes_theorem",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The vertex of parabola y = x² - 4x + 3 is at:</span></h3><h3>(A) (2, -1)<br />(B) (2, 1)<br />(C) (-2, -1)<br />(D) (4, 3)</h3>",
+      "solution": "<h3>y = (x-2)² - 1. Vertex at (2, -1).</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "853040b7a05814d32feb3e71"
+    },
+    "qid": "Q_PHY_0038",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "laws_of_motion",
+    "subtopic": "friction",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Number of spectral lines from n=4 to ground state is:</span></h3><h3>(A) 3<br />(B) 4<br />(C) 6<br />(D) 10</h3>",
+      "solution": "<h3>N = n(n-1)/2 = 4×3/2 = 6</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3e34301746cb282026e42a31"
+    },
+    "qid": "Q_CHE_0002",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "molecular_orbital",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The pH of 0.01 M HCl solution is:</span></h3><h3>(A) 1<br />(B) 2<br />(C) 3<br />(D) 4</h3>",
+      "solution": "<h3>pH = -log[H⁺] = -log(0.01) = 2</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "4f27c233ab94c44205eb64de",
+    "qid": "Q_PHY_0093",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "diffraction",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">In an experiment, The time constant of an RC circuit with R = 1kΩ and C = 1μF is:</span></h3><h3>(A) 1 ms<br />(B) 1 s<br />(C) 1 μs<br />(D) 1 ns</h3>",
+      "solution": "<h3>τ = RC = 1000 × 10⁻⁶ = 10⁻³ s = 1 ms</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7cb557ab0b46f95f121770f0"
+    },
+    "qid": "Q_MAT_0011",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "sequences_series",
+    "difficulty": 5,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The slope of the line 2x + 3y = 6 is:</span></h3><h3>(A) 2/3<br />(B) -2/3<br />(C) 3/2<br />(D) -3/2</h3>",
+      "solution": "<h3>3y = -2x + 6, y = -2x/3 + 2. Slope = -2/3</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "96daeee6f529a279764017f2"
+    },
+    "qid": "Q_PHY_0015",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 1,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Young's double slit experiment: if slit separation is halved, fringe width:</span></h3><h3>(A) Doubles<br />(B) Halves<br />(C) Remains same<br />(D) Quadruples</h3>",
+      "solution": "<h3>β = λD/d. If d → d/2, β → 2β. Fringe width doubles.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "e37c791ccda1086e7b669e52",
+    "qid": "Q_CHE_0031",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "carbonyl_compounds",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">The number of real solutions of x⁴ - 5x² + 4 = 0 is ___</span></h3>",
+      "solution": "<h3>x² = 1 or x² = 4, giving x = ±1, ±2. Answer: 4</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": "5e7143c50f200529df4648ed",
+    "qid": "Q_MAT_0039",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "algebra",
+    "subtopic": "matrices",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Evaluate: The number of terms in the expansion of (a+b)⁸ is:</span></h3><h3>(A) 8<br />(B) 9<br />(C) 7<br />(D) 16</h3>",
+      "solution": "<h3>(a+b)^n has n+1 terms. So 8+1 = 9.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bf72e9bd849004b9f0ff90d9"
+    },
+    "qid": "Q_CHE_0055",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 2,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Predict: Enthalpy of an exothermic reaction is:</span></h3><h3>(A) Positive<br />(B) Negative<br />(C) Zero<br />(D) Cannot be determined</h3>",
+      "solution": "<h3>Exothermic reactions release heat, so ΔH < 0.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aead49a6fa5ca9f7ac8cb365"
+    },
+    "qid": "Q_PHY_0082",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_mechanics",
+    "subtopic": "rolling",
+    "difficulty": 3,
+    "scq": {
+      "question": "<h3><span style=\"color:#000000\">Given that: The power of a lens with focal length -25 cm is:</span></h3><h3>(A) -4 D<br />(B) +4 D<br />(C) -25 D<br />(D) +25 D</h3>",
+      "solution": "<h3>P = 1/f(in meters) = 1/(-0.25) = -4 D</h3>",
+      "answer": "A"
+    }
+  }
+]

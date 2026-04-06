@@ -1,0 +1,50 @@
+{
+  "practiceTest": {
+    "description": "Full timed mock test simulating exam conditions",
+    "params": {
+      "difficulty": {"type": "string", "options": ["easy", "medium", "hard"], "default": "easy"},
+      "duration_minutes": {"type": "integer", "default": 60},
+      "paperPattern": {"type": "string", "options": ["Mains", "Advanced"], "default": "Mains"}
+    }
+  },
+  "practiceAssignment": {
+    "description": "Targeted practice set for specific topics, no timer",
+    "params": {
+      "difficulty": {"type": "string", "options": ["easy", "medium", "hard"], "default": "easy"},
+      "type_split": {"type": "object", "default": {"scq": 20, "mcq": 10, "integer": 5}}
+    }
+  },
+  "formula": {
+    "description": "Formula revision sheet for specified chapters",
+    "params": {}
+  },
+  "revision": {
+    "description": "Multi-day structured revision plan",
+    "params": {
+      "alloted_days": {"type": "integer", "default": 3},
+      "strategy": {"type": "integer", "options": [1, 2, 3], "default": 1},
+      "daily_time_minutes": {"type": "integer", "default": 60}
+    }
+  },
+  "concept": {
+    "description": "Theory explanation and conceptual understanding for a topic",
+    "params": {}
+  },
+  "clickingPower": {
+    "description": "Speed drill — 10 rapid questions, focus on response time",
+    "params": {
+      "total_questions": {"type": "integer", "default": 10}
+    }
+  },
+  "pickingPower": {
+    "description": "MCQ option elimination practice",
+    "params": {}
+  },
+  "speedRace": {
+    "description": "Competitive timed race against bot",
+    "params": {
+      "rank": {"type": "integer", "default": 100},
+      "opponent_type": {"type": "string", "default": "bot"}
+    }
+  }
+}
